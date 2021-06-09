@@ -63,6 +63,10 @@ melodicvnc    | 2021-06-09 18:22:16,556 INFO success: novnc entered RUNNING stat
 ```
 - If you want to stop the container, press Ctrl+C.
 
+#### <font color="red">Checkpoint(Access to the ROS container on browser)</font>
+- During running the ROS container, Access `http://localhost:8000/`.
+- You can see ubuntu Desktop on the browser.
+
 ### Install VNC Client
 - Because of its performance and functionality (for ex. copy and paste between windows and linux container), we strongly recommend to use VNC client to access inside the ROS container.
 - If you can use vnc client, you can access `localhost:5900` during running the ROS container.
@@ -79,6 +83,3 @@ melodicvnc    | 2021-06-09 18:22:16,556 INFO success: novnc entered RUNNING stat
 
 <image src="../image/ubuntu_vnc.jpg">
 
-#### <font color="red">Checkpoint(Access to the ROS container on browser)</font>
-- During running the ROS container, Access `http://localhost:8000/`.
-- You can see ubuntu Desktop on the browser.
