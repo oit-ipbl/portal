@@ -1,7 +1,7 @@
 # Development Platform for iPBL
 ## prerequisite
 - Windows10
-  - Macでも実施できる可能性はありますが，スタッフがサポートできません．自己責任でセットアップしてください．
+  - You may be able to use this development platform for iPBL on OS other than Windows 10, but we cannot provide any support. If you use other OS such as intel Mac, M1 Mac, etc. please set it up at your own risk.
 - 8GB Memory
 
 ## Setup Docker
