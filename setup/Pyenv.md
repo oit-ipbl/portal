@@ -20,8 +20,8 @@
 
 #### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)Mac user / students who are already completed to setup the python3 environment
 - If you already have a python3 environment (3.8 or more version)
-  - Please confirm requirements
-  - This setting is competed, if the following sample code works fine on your python environment (it requires a webcam)
+  - Please confirm requirements.
+  - This setting is completed, if the following sample code works fine on your python environment. (it requires a webcam)
     - sample code: https://github.com/oit-ipbl/portal/blob/main/pythonEnv/hands.py
     ```python:hands.py
     import cv2
@@ -69,7 +69,7 @@
 ### prerequisite for this potable python3 environment
 - Windows 10
 - 8GB Memory
-- 1.5GB HDD(C: dirve)
+- 1.5GB HDD(C: drive)
 
 ### procedure
 - Download this installer file by clicking the following url.
