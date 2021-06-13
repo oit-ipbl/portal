@@ -6,7 +6,10 @@
   - opencv-python: version 3.6 or more
   - opencv-contrib-python: version 3.6 or more
   - mediapipe: latest
-  - mvsc-runtime: latest version
+  - msvc-runtime: latest version
+  ```sh
+  python -m pip install numpy opencv-python opencv-contrib-python mediapipe msvc-runtime
+  ```
 - [recommend]Visual Studio Code(VSCode)
 
 #### <font color="red">Checkpoint</font>
