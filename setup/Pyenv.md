@@ -22,19 +22,19 @@
     - If you have installed some antivirus software, this executable file and other batch files may not work properly.
 - Execute "py21_installer.exe" file.
 - Choose "Yes".
-  - <image src="../image/py21_installer.png">
+<image src="../image/py21_installer.png">
 - This installer setup the portable python environment and the portable VSCode into "C:\out\py21", and create link on your Desktop.
 
 ## How to use
 - installed folder "C:\oit\py21"
-  - <image src="../image/py21_folder.png">
-    - **code**: work folder
-    - python-3.8.7: embedded python
-    - VSCode-win32-x64-1.57.0: portable visual studio code
-    - **console.bat**: open the command prompt with python-3.8.7 settings
-    - **vscode.bat**: open VSCode with python-3.8.7 settings
-    - [hidden file]setup.bat: create the link of "py21" on your Desktop
-    - [hidden file]settings: support files for setup
+  - **code**: work folder
+  - python-3.8.7: embedded python
+  - VSCode-win32-x64-1.57.0: portable visual studio code
+  - **console.bat**: open the command prompt with python-3.8.7 settings
+  - **vscode.bat**: open VSCode with python-3.8.7 settings
+  - [hidden file]setup.bat: create the link of "py21" on your Desktop
+  - [hidden file]settings: support files for setup
+<image src="../image/py21_folder.png">
 - Command Prompt
   - Execute "console.bat" file.
   - How to install python modules
@@ -44,4 +44,4 @@
 - VSCode
   - Execute "vscode.bat" file.
   - if the following message is pop-up, please choose "Yes, I trust the authors".
-    - <image src="../image/warning_VSCode[first_time].png">
+<image src="../image/warning_VSCode[first_time].png">
