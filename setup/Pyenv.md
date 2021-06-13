@@ -66,7 +66,7 @@
       <image src="../image/hands.png" width="25%" height="25%">
 
 ## Setup Potable Python3 Environment
-### prerequisite for this
+### prerequisite for this potable python3 environment
 - Windows 10
 - 8GB Memory
 - 1.5GB HDD(C: dirve)
