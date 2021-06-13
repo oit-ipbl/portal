@@ -21,7 +21,7 @@
     - PW:oit-siit
     - If you have installed some antivirus software, this executable file and other batch files may not work properly.
 - Execute "py21_installer.exe" file.
-- Choose "Yes".
+- Choose "Yes".<br>
   <image src="../image/py21_installer.png">
 - This installer setup the portable python environment and the portable VSCode into "C:\out\py21", and create link on your Desktop.
 
