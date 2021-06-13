@@ -13,7 +13,7 @@
 - If you already have a python3 environment (3.8 or more version)
   - Please confirm requirements
   - This setting is competed, if the following sample code works fine on your python environment (it requires a webcam)
-    - sample code: https://github.com/oit-ipbl/portal/pythonEnv/hands.py
+    - sample code: https://github.com/oit-ipbl/portal/blob/main/pythonEnv/hands.py
 
 ## Set up Potable Python3 Environment
 - Download this repository by clicking the following url.
