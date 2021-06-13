@@ -117,7 +117,7 @@
     <image src="../image/vscode_sample.png" width="50%" height="50%">
   - If the Terminal of VSCode is not opened, open the New Terminal as follows.
     <image src="../image/vscode_new_terminal.png" width="50%" height="50%">
-  - **At this time, make sure that the terminal path matches the parent directory of the running Python code.**<br>
+  - **At this time, make sure that the terminal path matches the parent directory of the Python code which you want to run.**<br>
     <image src="../image/vscode_terminal_path.png" width="50%" height="50%"><br>
     - If necessary, move the directory by the cd command.
   - Execute "hands.py" by clicking the following execution button.<br>
