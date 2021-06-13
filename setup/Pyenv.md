@@ -19,7 +19,7 @@
     - sample code: https://github.com/oit-ipbl/portal/blob/main/pythonEnv/hands.py
 
 ## Set up Potable Python3 Environment
-- Download this repository by clicking the following url.
+- Download this installer file by clicking the following url.
   - https://oskit-my.sharepoint.com/:u:/g/personal/takao_jinno_oit_ac_jp/EcFXD1YzQypLrUurdhg4gEwBx97nmCg7WyYAQRQQ50Bqng?e=Mw2DDR
     - PW:oit-siit
     - If you have installed some antivirus software, this executable file and other batch files may not work properly.
