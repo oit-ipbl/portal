@@ -62,7 +62,7 @@
                 break
     cap.release()    
     ```
-    - If it works normally, the webcam will start and the shape of the hand will be recognized as shown below.
+    - If it works normally, the webcam will start, and the shape of the hand will be recognized as shown below.
       <image src="../image/hands.png" width="25%" height="25%">
 
 ## Setup Potable Python3 Environment
@@ -99,7 +99,7 @@
   ```
 - **VSCode**
   - Execute "vscode.bat" file.
-  - if the following message is pop-up, please choose "Yes, I trust the authors".<br>
+  - If the following message is pop-up, please check "Trust the authors of all files in the parent folder 'py21'" and choose "Yes, I trust the authors".<br>
     <image src="../image/warning_VSCode[first_time].png" width="50%" height="50%">
 
 ### Let's execute sample python code!
@@ -109,7 +109,7 @@
   ```sh
   PS C:\oit\py21\code> python hands.py
   ```
-  - If it works normally, the webcam will start and the shape of the hand will be recognized as shown below.<br>
+  - If it works normally, the webcam will start, and the shape of the hand will be recognized as shown below.<br>
     <image src="../image/hands.png" width="25%" height="25%">
 - **VSCode**
   - Execute "vscode.bat" file.
@@ -122,5 +122,5 @@
     - If necessary, move the directory by the cd command.
   - Execute "hands.py" by clicking the following execution button.<br>
     <image src="../image/vscode_execute_button.png"><br>
-  - If it works normally, the webcam will start and the shape of the hand will be recognized as shown below.<br>
+  - If it works normally, the webcam will start, and the shape of the hand will be recognized as shown below.<br>
     <image src="../image/hands.png" width="25%" height="25%">
