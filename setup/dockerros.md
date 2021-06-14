@@ -57,15 +57,19 @@ Docker version 20.10.5, build 55c4c88
 - Next, execute `cd melodicvnc`
  - All the following commands must be executed in the melodicvnc directory.
 <image src="../image/powershell_melodicvnc.jpg">
+  
 - You can see the file `docker-compose.yml` in the melodicvnc directory.
 - Get the Ros container.
   - You type the following command after `>` (In this case, type `docker-compose pull`).
 - This command downloads a ROS container(about 3GB) from Docker Hub.
+
 ```sh
 PS C:\Users\????\melodicvnc> docker-compose pull
 Pulling melodicvnc ... downloading (?.?%)
 ```
+
 - Finally, the command shows `done`.
+
 ```sh
 PS C:\Users\????\melodicvnc> docker-compose pull
 Pulling melodicvnc ... done
@@ -74,6 +78,7 @@ PS C:\Users\????\melodicvnc>
 
 #### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)Checkpoint(ROS image)
 - Please confirm the ROS container image was downloaded in the windows terminal (or powershell).
+
 ```sh
 PS C:\Users\????\melodicvnc> docker images
 REPOSITORY         TAG       IMAGE ID       CREATED        SIZE
@@ -81,11 +86,11 @@ igaki/melodicvnc   latest    5f4cf41ff1d6   2 months ago   3.06GB
 ```
 
 ### Run the ROS container
-- Please run the `igaki/melodicvnc` through the following commands
+- Please run the `igaki/melodicvnc` container by the following commands
 - 1) You must be in the melodicvnc directory by windows terminal (or powershell).
 - 2) Confirm the docker-compose.yml in the melodicvnc directory
 - 3) Execute `docker-compose up`
-  - You must not use docker desktop dashboard to run the container.
+  - You **must not use docker desktop dashboard** to run the container.
 
 ```sh
 PS C:\Users\????\melodicvnc> docker compose up
