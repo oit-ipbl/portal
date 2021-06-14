@@ -1,8 +1,9 @@
-# Development Platform for iPBL
+# Robot Development Environment for iPBL
 
 ## Objectives
-- このセットアップマニュアルは皆さんのWindows10 PCにWSL2，Docker，ROS環境(ubuntu)をインストールするためのものです
-- すべてのチェックポイントが満たされていることを確認してください
+- This page explains how to install Docker Desktop and ROS-melodic containers constitute of our robot development environment.
+
+<image src="../image/architecture.jpg">
 
 ## prerequisite
 - Windows10
