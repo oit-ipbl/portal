@@ -109,6 +109,9 @@ melodicvnc    | 2021-06-09 18:22:16,556 INFO success: novnc entered RUNNING stat
 #### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)Checkpoint(Access to the ROS container on browser)
 - During running the ROS container, Access `http://localhost:8000/`.
 - You can see ubuntu Desktop on the browser.
+- When you enter the ROS container first, you should select window panel setting. We recommend to select `Use Default Config`.
+
+<image src="../image/ubuntu_panel.jpg" width=300>
 
 ### Install VNC Client
 - Because of its performance and functionality (for ex. copy and paste between windows and linux container), we strongly recommend to use VNC client to access inside the ROS container.
@@ -119,9 +122,14 @@ melodicvnc    | 2021-06-09 18:22:16,556 INFO success: novnc entered RUNNING stat
   - Please start the vnc viewer, and select File->New Connection.
   - Input `localhost:5900` in the VNC Server area, and press `OK`.
   - Select and Connect.
+    - When you connect to the ros-container, VNC viewer shows the message `Unencrypted Connection`. You don't need to worry about it because the connection is within your computer.
+
 <image src="../image/realvnc.jpg">
 
 #### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)Checkpoint(Access to the ROS container on VNC Viewer)
 - You can see ubuntu Desktop in the window of the VNC Viewer.
+  - When you enter the ROS container first, you should select window panel setting. We recommend to select `Use Default Config`.
+
+<image src="../image/ubuntu_panel.jpg" width=300>
 
 <image src="../image/ubuntu_vnc.jpg">
