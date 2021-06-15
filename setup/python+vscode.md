@@ -96,6 +96,7 @@
   ```
   - If it works normally, the webcam will start, and the shape of the hand will be recognized as shown below.<br>
     <image src="../image/hands.png" width="25%" height="25%">
+  - If you want to stop this program, press "Esc" key while the preview window is active. 
 
 ### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)Checkpoint(EXTENSIONS of VScode)
 - Execute "vscode.bat" file.
@@ -138,3 +139,4 @@
     <image src="../image/vscode_execute_button.png"><br>
   - If it works normally, the webcam will start, and the shape of the hand will be recognized as shown below.<br>
     <image src="../image/hands.png" width="25%" height="25%">
+  - If you want to stop this program, press "Esc" key while the preview window is active. 
