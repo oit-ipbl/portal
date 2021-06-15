@@ -102,6 +102,9 @@
 - Execute "vscode.bat" file.
 - If the following message is pop-up, please check "Trust the authors of all files in the parent folder 'py21'" and choose "Yes, I trust the authors".<br>
   <image src="../image/warning_VSCode[first_time].png" width="50%" height="50%">
+- If the following message pops up, please ignore message and close pop-up window **by clicking "x" button**.<br>
+  <image src="../image/vscode_error.png" width="50%" height="50%">
+  - This error happen when EXTENSIONS of VSCode lose the python path, but it works fine.
 - Please confirm EXTENSIONS of VSCode
   - Click the following button (EXTENSIONS Tab button).<br>
     <image src="../image/Extensions_button.png" width="5%" height="5%">
