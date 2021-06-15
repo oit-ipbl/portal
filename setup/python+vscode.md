@@ -45,7 +45,7 @@
   <image src="../image/py21_installer.png" width="30%" height="30%">
 - This installer setup the image processing environment (Python3 + VSCode) into "C:\out\py21", and create link on your Desktop.
 
-### Installed folder structure
+#### Installed folder structure
 - installed folder "C:\oit\py21"
   - **code**: work folder
   - python-3.8.7: embedded python
