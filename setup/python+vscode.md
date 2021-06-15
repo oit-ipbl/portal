@@ -115,14 +115,14 @@
 
 ### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)Checkpoint(Python version of VSCode)
 - If you have not opened VSCode, execute "vscode.bat" file.
-  - If the Terminal of VSCode is not opened, open the New Terminal as follows.
-    <image src="../image/vscode_new_terminal.png" width="50%" height="50%"><br>
-    <image src="../image/vscode_terminal_path.png" width="50%" height="50%"><br>
-  - Please confirm python version of the Terminal of VSCode
-    ```sh
-    PS C:\oit\py21\code> python --version
-    Python 3.8.7
-    ```
+- If the Terminal of VSCode is not opened, open the New Terminal as follows.
+  <image src="../image/vscode_new_terminal.png" width="50%" height="50%"><br>
+  <image src="../image/vscode_terminal_path.png" width="50%" height="50%"><br>
+- Please confirm python version of the Terminal of VSCode
+  ```sh
+  PS C:\oit\py21\code> python --version
+  Python 3.8.7
+  ```
 
 ### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)Checkpoint(Run python code with VSCode)
 - If you have not opened VSCode, execute "vscode.bat" file.
