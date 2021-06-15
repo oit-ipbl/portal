@@ -1,7 +1,7 @@
-# Digital Image Processing Development Environment for iPBL
+# Image Processing Development Environment for iPBL
 
 ## Objectives
-- This page explains how to install both Python and VSCode constitute of our digital image processing development environment.
+- This page explains how to install both Python and VSCode constitute of our image processing development environment.
 - This development environment does not affect the PC environment in which it is installed.
 
 <image src="../image/architecture.jpg">
@@ -43,7 +43,7 @@
   - **Even if the warning pops up, execute it.**
 - Choose "Yes".<br>
   <image src="../image/py21_installer.png" width="30%" height="30%">
-- This installer setup the digital image processing development environment (Python3 + VSCode) into "C:\out\py21", and create link on your Desktop.
+- This installer setup the image processing development environment (Python3 + VSCode) into "C:\out\py21", and create link on your Desktop.
 
 ### Installed folder structure
 - installed folder "C:\oit\py21"
