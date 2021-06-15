@@ -32,9 +32,9 @@
   - They may remove our installer and batch files.
 
 
-## Setup both Python and VSCode with installer
+## Setup both Python and VSCode with our installer
 ### procedure
-- Download this installer file by clicking the following url.
+- Download our installer file by clicking the following url.
   - https://oskit-my.sharepoint.com/:u:/g/personal/takao_jinno_oit_ac_jp/EcFXD1YzQypLrUurdhg4gEwBx97nmCg7WyYAQRQQ50Bqng?e=Mw2DDR
     - **PW is written on Slack.**
     - If you have installed some antivirus software, this executable file and other batch files may not work properly.
