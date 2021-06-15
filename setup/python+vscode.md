@@ -14,13 +14,11 @@
   - opencv-contrib-python 4.5.2.54
   - mediapipe 0.8.5
   - msvc-runtime 14.29.30036
-- Visual Studio Code 1.57.0 (portable)   (*)拡張機能については要整理
+- Visual Studio Code 1.57.0 (portable)
   - EvilInspector
-  - Japanese Language Pack for Visual Studio Code
   - Jupyter
   - Pylance
   - Python
-  - Python for VSCode
   - Remote - Containers
 
 ## prerequisite
@@ -108,13 +106,11 @@
 - Please confirm EXTENSIONS of VSCode
   - Click the following button (EXTENSIONS Tab button).<br>
     <image src="../image/Extensions_button.png" width="5%" height="5%">
-  - Please confirm installed EXTENSIONS  (*)拡張機能については要整理
+  - Please confirm installed EXTENSIONS
     - EvilInspector
-    - Japanese Language Pack for Visual Studio Code
     - Jupyter
     - Pylance
     - Python
-    - Python for VSCode
     - Remote - Containers      
 
 ### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)Checkpoint(Python version of VSCode)
