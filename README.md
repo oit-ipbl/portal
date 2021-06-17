@@ -12,7 +12,7 @@
 ---
 ## place
 
-- This PBL used oVice.
+- In this PBL, oVice is used.
 ---
 ## Tools
 - [Communication Tools](https://github.com/oit-ipbl/portal/blob/main/setup/commtools.md)
