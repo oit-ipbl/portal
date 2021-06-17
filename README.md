@@ -1,11 +1,14 @@
 #  Portal Site at IPBL in OIT and SIIT (2021) 
 スケジュールや各種ページへのリンクになります．
-## [Schedule](https://github.com/oit-ipbl/schedule)
-Pre-preparation and Pre-learning
--  6/30 to  8/27
+## Pre-learning
+* Wed. 6/30 to Fri. 8/27
+* Wed. 6/30 : Introduction of the international PBL
 
-International PBL production
-- 8/28 (Sat.) to 9/4 (Sat.)
+## PBL (Under Planning)
+* Sat. 8/28 to Sat. 9/4
+  * Sat. 8/28: Opening ceremony
+  * Mon. 8/30 to Fri. 9/3(5 days) PBL
+  * Sat. 9/4: Award Ceremony
 ---
 ## place
 
