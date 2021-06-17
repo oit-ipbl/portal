@@ -1,6 +1,6 @@
 #  Portal Site at IPBL in OIT and SIIT (2021) 
 スケジュールや各種ページへのリンクになります．
-## Schedule
+## [Schedule](https://github.com/oit-ipbl/schedule)
 Pre-preparation and Pre-event reluctance meeting
 - July to August
 
