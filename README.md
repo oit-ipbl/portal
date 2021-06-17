@@ -6,7 +6,7 @@ Pre-preparation and Pre-event reluctance meeting
 
 International PBL production
 - August/28 (Sat) to September/4 (Sat)
-
+---
 ## Tools
 - [Communication Tools](https://github.com/oit-ipbl/portal/blob/main/setup/commtools.md)
   - How to use Slack, oVice and miro in this iPBL.
