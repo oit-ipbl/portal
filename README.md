@@ -4,6 +4,6 @@
 
 
 - [Communication Tools](https://github.com/oit-ipbl/portal/blob/main/setup/commtools.md)
- - This page describe how to use Slack, oVice and miro in this iPBL.
+  - This page describe how to use Slack, oVice and miro in this iPBL.
 
 - [Robot Development Environment for iPBL](https://github.com/oit-ipbl/portal/blob/main/setup/commtools.md)
