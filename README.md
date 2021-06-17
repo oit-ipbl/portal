@@ -3,6 +3,7 @@
 ## [Schedule](https://github.com/oit-ipbl/schedule)
 Pre-preparation and Pre-learning
 -  6/30 to  8/27
+
 International PBL production
 - 8/28 (Sat.) to 9/4 (Sat.)
 ---
