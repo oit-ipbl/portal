@@ -6,7 +6,7 @@
 
 [Schedule](https://github.com/oit-ipbl/schedule)
 
-[robots](https://github.com/oit-ipbl/robots)
+[Robots](https://github.com/oit-ipbl/robots)
 
 [Image_processing](https://github.com/oit-ipbl/image_processing)
 
