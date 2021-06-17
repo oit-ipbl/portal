@@ -1,5 +1,7 @@
 #  Portal Site at IPBL in OIT and SIIT (2021) 
+
 スケジュールや各種ページへのリンクになります．
+
 ---
 ## Schedule
 ### Pre-learning
