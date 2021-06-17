@@ -2,9 +2,11 @@
 
 各リポジトリに対するリングなどを貼るサイトになります．
 
-[Image_processing](https://github.com/oit-ipbl/image_processing)
+
 
 [Schedule](https://github.com/oit-ipbl/schedule)
+
+[robots](https://github.com/oit-ipbl/robots)
 
 [Image_processing](https://github.com/oit-ipbl/image_processing)
 
