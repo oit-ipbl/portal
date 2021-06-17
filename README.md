@@ -1,8 +1,9 @@
 #  Portal Site at IPBL in OIT and SIIT (2021) 
 スケジュールや各種ページへのリンクになります．
 ## Schedule
-August/28(Sat) - September/4(Sat)
 International PBL production
+- August/28 (Sat) -- September/4 (Sat)
+
 
 ## Tools
 - [Communication Tools](https://github.com/oit-ipbl/portal/blob/main/setup/commtools.md)
