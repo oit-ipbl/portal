@@ -9,7 +9,7 @@ International PBL production
 ---
 ## place
 
-This PBL used oVice.
+- This PBL used oVice.
 ---
 ## Tools
 - [Communication Tools](https://github.com/oit-ipbl/portal/blob/main/setup/commtools.md)
