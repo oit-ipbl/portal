@@ -10,7 +10,7 @@
   * Mon. 8/30 to Fri. 9/3(5 days) PBL
   * Sat. 9/4: Award Ceremony
 ---
-## place
+## Place
 
 - In this PBL, oVice is used.
 ---
