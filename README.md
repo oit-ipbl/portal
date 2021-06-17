@@ -11,3 +11,5 @@
 [Image_processing](https://github.com/oit-ipbl/image_processing)
 
 [Integration](https://github.com/oit-ipbl/Integration)
+
+[Manuals](https://github.com/oit-ipbl/manuals)
