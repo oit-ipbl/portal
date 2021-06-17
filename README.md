@@ -4,7 +4,7 @@
 
 [Image_processing](https://github.com/oit-ipbl/image_processing)
 
-[Image_processing](https://github.com/oit-ipbl/image_processing)
+[Schedule](https://github.com/oit-ipbl/schedule)
 
 [Image_processing](https://github.com/oit-ipbl/image_processing)
 
