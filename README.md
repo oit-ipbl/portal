@@ -7,6 +7,8 @@ Pre-preparation and Pre-learning
 International PBL production
 - 8/28 (Sat.) to 9/4 (Sat.)
 ---
+## place
+---
 ## Tools
 - [Communication Tools](https://github.com/oit-ipbl/portal/blob/main/setup/commtools.md)
   - How to use Slack, oVice and miro in this iPBL.
