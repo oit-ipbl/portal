@@ -5,7 +5,7 @@ Pre-preparation and Pre-event reluctance meeting
 - July to August
 
 International PBL production
-- August/28 (Sat) to September/4 (Sat)
+- 8/28 (Sat.) to 9/4 (Sat.)
 ---
 ## Tools
 - [Communication Tools](https://github.com/oit-ipbl/portal/blob/main/setup/commtools.md)
