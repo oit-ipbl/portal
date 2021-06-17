@@ -18,7 +18,7 @@
 - [Communication Tools](https://github.com/oit-ipbl/portal/blob/main/setup/commtools.md)
   - How to use Slack, oVice and miro in this iPBL.
 ---
-## ettings
+## Settings
 - [Robot Development Environment for iPBL](https://github.com/oit-ipbl/portal/blob/main/setup/dockerros.md)
   - How to install Docker Desktop and ROS-melodic containers constitute of our robot development environment.
 
