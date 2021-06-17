@@ -4,7 +4,7 @@
 
 
 
-[Schedule](https://github.com/oit-ipbl/schedule)
+[Communication Tools](https://github.com/oit-ipbl/portal/blob/main/setup/commtools.md)
 
 [Robots](https://github.com/oit-ipbl/robots)
 
