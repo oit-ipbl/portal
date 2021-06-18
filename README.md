@@ -1,6 +1,8 @@
 #  Portal Site at IPBL in OIT and SIIT (2021) 
 
 スケジュールや各種ページへのリンクになります．
+## Basic Information
+# thailand
 
 ---
 ## Schedule
@@ -26,3 +28,4 @@
 
 - [Image Processing Environment for iPBL](https://github.com/oit-ipbl/portal/blob/main/setup/python%2Bvscode.md)
   - How to install both Python and VSCode constitute of our image processing environment.
+## Education Materials
