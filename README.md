@@ -1,8 +1,9 @@
 #  Portal Site at IPBL in OIT and SIIT (2021) 
 
 スケジュールや各種ページへのリンクになります．
-## Basic Information
-# thailand
+
+# Osaka Institute of Technology (OIT)
+# Sirindhorn International Institute of Technology (SIIT)
 
 ---
 ## Schedule
