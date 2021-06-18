@@ -2,8 +2,8 @@
 
 スケジュールや各種ページへのリンクになります．
 
-## Osaka Institute of Technology (OIT)
-## Sirindhorn International Institute of Technology (SIIT)
+## [Osaka Institute of Technology](https://www.siit.tu.ac.th/) (OIT)
+## [Sirindhorn International Institute of Technology](https://www.siit.tu.ac.th/) (SIIT)
 
 ---
 ## Schedule
