@@ -1,9 +1,9 @@
 #  Portal Site at IPBL in OIT and SIIT (2021) 
 
 スケジュールや各種ページへのリンクになります．
-
-## [Osaka Institute of Technology](https://www.siit.tu.ac.th/) (OIT)
-## [Sirindhorn International Institute of Technology](https://www.siit.tu.ac.th/) (SIIT)
+## Participating Universities
+- [Osaka Institute of Technology](http://www.oit.ac.jp/english/index.html) (OIT)
+- [Sirindhorn International Institute of Technology](https://www.siit.tu.ac.th/) (SIIT)
 
 ---
 ## Schedule
