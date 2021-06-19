@@ -1,4 +1,4 @@
-#  Portal Site at IPBL in OIT and SIIT (2021) 
+#  Portal Site of IPBL for OIT and SIIT in 2021
 
 スケジュールや各種ページへのリンクになります．
 ## Participating Universities
