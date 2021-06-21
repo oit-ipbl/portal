@@ -21,7 +21,7 @@
 
 - In this PBL, oVice is used.
 ---
-## Install
+## Setup
 - [Communication Tools](https://github.com/oit-ipbl/portal/blob/main/setup/commtools.md)
   - How to use Slack, oVice and miro in this iPBL.
 - [Robot Development Environment for iPBL](https://github.com/oit-ipbl/portal/blob/main/setup/dockerros.md)
