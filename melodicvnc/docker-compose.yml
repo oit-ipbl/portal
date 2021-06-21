@@ -2,7 +2,7 @@ version: '3'
 services:
   melodicvnc:
     container_name: melodicvnc
-    build: .
+    image: igaki/melodicvnc:v1.0.0
     volumes:
       - catkin_ws:/catkin_ws
       - ubuntu:/home/ubuntu
