@@ -133,3 +133,9 @@ melodicvnc    | 2021-06-09 18:22:16,556 INFO success: novnc entered RUNNING stat
 <image src="../image/ubuntu_panel.jpg" width=300>
 
 <image src="../image/ubuntu_vnc.jpg">
+
+### Use terminal Emulator in the ROS Container
+- In the ROS container, you can use the terminal emulator to control ROS programs.
+- As follows, click the icon of the terminal, and execute `cd ~/catkin_ws`.
+
+<image src="../image/ubuntu_terminal.jpg">
