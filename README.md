@@ -31,4 +31,4 @@
   - How to install both Python and VSCode constitute of our image processing environment.
 ---
 ## Education Materials
-- [Robots](https://github.com/oit-ipbl/robots)
+- [Robots]（See, after Jul. 7）
