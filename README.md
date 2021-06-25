@@ -22,8 +22,8 @@
 - In this PBL, oVice is used.
 ---
 ## Setup
-<font color="red">
-All students are required to complete the setup and pre-assignment by 7/7.</font>
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 
+All students are required to complete the setup and pre-assignment by 7/7.
 
 - [Communication Tools](https://github.com/oit-ipbl/portal/blob/main/setup/commtools.md)
   - How to use Slack, oVice and miro in this iPBL.
