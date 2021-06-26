@@ -1,7 +1,7 @@
 # Developing inside the container with VSCode
 
 ## Objectives
-- This page explains how to develop inside the ROS-Melodic Docker Container via VSCode.
+- This page explains how to develop inside the ROS-Melodic Docker Container via VSCode on Windows.
 
 <image src="../image/architecture.jpg">
 
