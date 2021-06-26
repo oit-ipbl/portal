@@ -32,10 +32,10 @@
 - Open "New Terminal" on VSCode.<br>
   <image src="../image/new_terminal_vscode.png">
 - Execute `python --version`, and please confirm the python version inside the ROS container.
-```sh
-ubuntu@????:~/catkin_ws$ python --version
-Python 2.7.17
-```
+  ```sh
+  ubuntu@????:~/catkin_ws$ python --version
+  Python 2.7.17
+  ```
 - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)Note: The version of Python used in the robot development environment (Ubuntu18 Docker container) is different from that used in the image processing environment (Windows). python2.7 is used in the RDE and python3.8 is used in the IPE.
 
 ### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)Checkpoint("Remote Explorer")
