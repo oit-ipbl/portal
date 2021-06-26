@@ -134,8 +134,64 @@ melodicvnc    | 2021-06-09 18:22:16,556 INFO success: novnc entered RUNNING stat
 
 <image src="../image/ubuntu_vnc.jpg">
 
+## How to use ros container.
+- In the following, we explain usage of the container.
+
 ### Use terminal Emulator in the ROS Container
 - In the ROS container, you can use the terminal emulator to control ROS programs.
-- As follows, click the icon of the terminal, and execute `cd ~/catkin_ws`.
+- As follows, click the icon of the terminal in the ros container, and execute `cd ~/catkin_ws` to run various ros programs.
 
 <image src="../image/ubuntu_terminal.jpg">
+
+### Copy and paste between windows and ubuntu(ROS container)
+
+- Basically, you can paste strings that you copied in Windows into the container (and vice versa).
+- However, the string you copied in Windows cannot be pasted directly into the terminal emulator in the container (probably due to the specification of the container and the VNC client).
+- In that case, you can copy strings in the following two ways.
+  1. Open the educational material in the container's web browser (Chrome) and copy the strings in the container. You can paste the strings to the terminal emulator.
+  2. Paste strings you copied on Windows once into the editor or address bar of the browser in the container. You can paste the strings that you copied again in the container into the terminal emulator.
+
+### Direct access directory and files inside the ROS container 
+- Some directories in the container can be accessed directly from Windows without using the VNC client.
+- For example, you can copy image files, etc. from windows into the ROS container in the following way.
+  - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)Note: It is strongly recommended that you access program files such as python only from within the container or from the remote container plugin of vscode. This may cause problems with permissions and other issues.
+
+#### How to access files and directories in the ROS container
+- Access `\\wsl$\docker-desktop-data\version-pack-data\community\docker\volumes` on the windows explorer as follows.
+- You can see two directiries `melodicvnc_catkin_ws` and `melodicvnc_ubuntu` in the `volumes` directory.
+- These directoryies correspond to `/catkin_ws` and `/home/ubuntu/` directories in the ROS container, respectively.
+
+<image src="../image/explorer.jpg">
+
+
+### Change Timezone of the ROS Container
+- First, stop the container with `Ctrl+C` command on the powershell.
+- Open the file `docker-compose.yml` in the melodicvnc directory.
+- In the following `docker-compose.yml`, `TZ=Asia/Tokyo` means the ros container is set as japan standard time(UTC+9).
+- If you want to set thai timezone (UTC+7), you should change `TZ=Asia/Tokyo` to `TZ=Asia/Bangkok`.
+- Change timezone setting and start the container with `docker-compose up`.
+
+```yml
+version: '3'
+services:
+  melodicvnc:
+    container_name: melodicvnc
+    image: igaki/melodicvnc:v1.1.0
+    volumes:
+      - catkin_ws:/catkin_ws
+      - ubuntu:/home/ubuntu
+    ports:
+      - "8000:8080"
+      - "5900:5900"
+      - "9090:9090" 
+      - "50001:50001"
+    environment:
+      - USER=ubuntu
+      - RESOLUTION=1024x768
+      - TZ=Asia/Tokyo
+    tty: true
+
+volumes:
+  catkin_ws:
+  ubuntu:
+```
