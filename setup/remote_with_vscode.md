@@ -31,14 +31,14 @@
 ### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)Checkpoint("Remote Environment")
 - Open "New Terminal" on VSCode.<br>
   <image src="../image/new_terminal_vscode.png">
-- Execute `python --version`.
+- Execute `python --version`, and please confirm the python version inside the ROS container.
 ```sh
 PS ~/catkin_ws$ python --version
 Python 2.7.17
 ```
 
 ### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)Checkpoint("Remote Explorer")
-- Open "src/CMakeLists.txt" in "catkin_ws" folder on the ROS container with VSCode.<br>
+- Open "src/CMakeLists.txt" in "catkin_ws" folder inside the ROS container on VSCode.<br>
     <image src="../image/CMakeList_on_vscode.png">
 - Open the same file on a VNC Client. ([more details](dockerros.md))<br>
     <image src="../image/CMakeList_on_VNC_client.png">
