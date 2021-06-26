@@ -30,7 +30,7 @@
 
 ### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)Checkpoint("Remote Environment")
 - Open "New Terminal" on VSCode.<br>
-  <image src="../image/new_terminal_rosvscode.png">
+  <image src="../image/new_terminal_vscode.png">
 - Execute `python --version`.
 ```sh
 PS ~/catkin_ws$ python --version
