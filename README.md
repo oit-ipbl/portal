@@ -36,3 +36,4 @@ All students are required to complete the setup and pre-assignment by 7/7.
 ## Education Materials
 - [Robots]（See, after Jul. 7）
 - [Image Processing]（Coming soon）
+- Integration of [Robots] and [Image Processing]（Coming soon）
