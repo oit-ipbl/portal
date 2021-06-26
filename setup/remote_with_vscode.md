@@ -1,4 +1,4 @@
-# Developing inside the container with VSCode
+# Developing inside the ROS container with VSCode
 
 ## Objectives
 - This page explains how to develop inside the ROS-Melodic Docker Container via VSCode on Windows.
@@ -19,13 +19,23 @@
     <image src="../image/remote_explorer_icon.png">
   - Open a side bar, and then right-click the "melodicvnc".<br>
     <image src="../image/melodicvnc_menu_vscode.png">
-  - Click "Attach to Container", and then an new VSCode window is opened.<br>
+  - Click "Attach to Container", and then an new VSCode window is opened.
+    - In this VSCode, you can use ubuntu's terminal emulator inside the ROS container.<br>
     <image src="../image/vscode_merodicvnc.png">
   - Click the following button (Explorer Tab button) on the new VSCode window.<br>
     <image src="../image/explorer_icon.png">
   - Enter or Click "catkin_ws" folder.<br>
     <image src="../image/catkin_ws_vscode.png">
-  - "catkin_ws" folder on the ROS container is opened.
+  - "catkin_ws" folder inside the ROS container is opened.
+
+### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)Checkpoint("Remote Environment")
+- Open "New Terminal" on VSCode.<br>
+  <image src="../image/new_terminal_rosvscode.png">
+- Execute `python --version`.
+```sh
+PS ~/catkin_ws$ python --version
+Python 2.7.17
+```
 
 ### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)Checkpoint("Remote Explorer")
 - Open "src/CMakeLists.txt" in "catkin_ws" folder on the ROS container with VSCode.<br>
