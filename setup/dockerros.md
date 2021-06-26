@@ -2,6 +2,7 @@
 
 ## Objectives
 - This page explains how to install Docker Desktop and ROS-melodic containers constitute of our robot development environment.
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)Note: The version of Python used in the robot development environment (Ubuntu18 Docker container) is different from that used in the image processing environment (Windows). python2.7 is used in the RDE and python3.8 is used in the IPE.
 
 <image src="../image/architecture.jpg">
 
