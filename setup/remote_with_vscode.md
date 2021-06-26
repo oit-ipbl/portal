@@ -28,7 +28,7 @@
   - "catkin_ws" folder on the ROS container is opened.
 
 ### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)Checkpoint("Remote Explorer")
-- Open "src/CMakeLists.txt" in "catkin_ws" folder on the ROS container on VSCode.<br>
+- Open "src/CMakeLists.txt" in "catkin_ws" folder on the ROS container with VSCode.<br>
     <image src="../image/CMakeList_on_vscode.png">
 - Open the same file on a VNC Client. ([more ditails](dockerros.md))<br>
     <image src="../image/CMakeList_on_VNC_client.png">
