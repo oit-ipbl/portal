@@ -10,10 +10,11 @@
 - Image Processing Environment for iPBL has already be installed.
 
 ## Setup "Remote Explorer" that is one of VSCode EXTENSIONS 
-- Run the ROS container of Robot development environment
-  - Execute `docker-compose up` on windows terminal ([more details](dockerros.md))
-- Open the VSCode of Image processing environment
-  - Execute `vscode.bat` in "C:\oit\py21" ([more details](python+vscode.md))
+- Run the ROS container of Robot development environment. ([more details](dockerros.md))
+  - Run Docker Desktop.
+  - Execute `docker-compose up` on windows terminal.
+- Open the VSCode of Image processing environment ([more details](python+vscode.md))
+  - Execute `vscode.bat` in "C:\oit\py21".
 - Setting EXTENSIONS of VSCode
   - Click the folloing button (Remote Explorer Tab button).  <br>
     <image src="../image/remote_explorer_icon.png">
