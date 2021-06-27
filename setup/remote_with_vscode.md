@@ -21,9 +21,9 @@
     <image src="../image/melodicvnc_menu_vscode.png">
   - Click "Attach to Container", and then an new VSCode window is opened.
     - If the following message pops up, please click "Got It".<br>
-    <iamge src="../image/warning_attaching.png">
+      <image src="../image/warning_attaching.png"><br>
     - In this VSCode, you can use ubuntu's terminal emulator inside the ROS container.<br>
-    <image src="../image/vscode_merodicvnc.png">
+      <image src="../image/vscode_merodicvnc.png" width="75%"  height="75%">
   - Click the following button (Explorer Tab button) on the new VSCode window.<br>
     <image src="../image/explorer_icon.png">
   - Enter or Click "catkin_ws" folder.<br>
