@@ -20,6 +20,8 @@
   - Open a side bar, and then right-click the "melodicvnc".<br>
     <image src="../image/melodicvnc_menu_vscode.png">
   - Click "Attach to Container", and then an new VSCode window is opened.
+    - If the following message pops up, please click "Got It".<br>
+    <iamge src="../image/warning_attaching.png">
     - In this VSCode, you can use ubuntu's terminal emulator inside the ROS container.<br>
     <image src="../image/vscode_merodicvnc.png">
   - Click the following button (Explorer Tab button) on the new VSCode window.<br>
