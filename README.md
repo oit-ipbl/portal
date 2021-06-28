@@ -24,7 +24,7 @@
 ---
 ## Setup
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 
-All students are required to complete the setup and pre-assignment by 7/7.
+All students are required to complete the setup until 7/7.
 
 - [Communication Tools](https://github.com/oit-ipbl/portal/blob/main/setup/commtools.md)
   - How to use Slack, oVice and miro in this iPBL.
@@ -35,7 +35,10 @@ All students are required to complete the setup and pre-assignment by 7/7.
   - How to install both Python and VSCode constitute of our image processing environment.
 ---
 ## Education Materials
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 
+All students are required to complete the robots and image Processing  until 7/7.
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
+All students are required to complete the robots and image Processing  until 8/21.
 - [Robots]（See, after Jul. 7）
---All students are required to complete  until 8/1
 - [Image Processing]（Coming soon）
 - Integration of [Robots] and [Image Processing]（Coming soon）
