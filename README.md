@@ -36,9 +36,10 @@ All students are required to complete the setup until 7/7.
 ---
 ## Education Materials
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 
-All students are required to complete the robots and image Processing  until 7/7.
+All students are required to complete the Robots and Image Processing  until 7/7.
+
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
-All students are required to complete the robots and image Processing  until 8/21.
+All students are required to complete the Integration until 8/21.
 - [Robots]（See, after Jul. 7）
 - [Image Processing]（Coming soon）
 - Integration of [Robots] and [Image Processing]（Coming soon）
