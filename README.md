@@ -1,6 +1,6 @@
 #  IPBL Portal Site for OIT and SIIT in 2021
 
-スケジュールや各種ページへのリンクになります．
+This is the site for the schedule and links to various pages. See each page for details.
 <!-- SETUPが7/6まで，ロボと画像処理の事前課題が8/1まで，統合課題が8/20まで（メモ書きです消します）-->
 ## Participating Universities
 - [Osaka Institute of Technology](http://www.oit.ac.jp/english/index.html) (OIT)
@@ -37,9 +37,8 @@ All students are required to complete the setup until 7/7.
 ## Education Materials
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 
 All students are required to complete the Robots and Image Processing  until 7/7.
-
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
-All students are required to complete the Integration until 8/21.
 - [Robots]（See, after Jul. 7）
 - [Image Processing]（Coming soon）
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
+All students are required to complete the Integration until 8/21.
 - Integration of [Robots] and [Image Processing]（Coming soon）
