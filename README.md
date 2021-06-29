@@ -12,14 +12,12 @@ This is a link to the schedule and various pages, please refer to each page for 
 ### Kickoff meeting 
 * 6/30 : Introduction of the international PBL
 
-### Pre-learning
+### Setup and Pre-learning
 *  6/30 to  8/27
 
 ### Final Competition 
-  * 8/21 : Final Competition Rules will appear on GitHub at 8/21. (You can start to prepare for final competition)
-  *  8/28 to  9/4
+  * 8/21 : Final Competition Rules will appear on GitHub at 8/21. (You can start to prepare for final competition
   * 8/28: Opening ceremony
-  * ~~8/30 to  9/3(5 days)PBL~~
   * 9/4: Final Results Presentation and Closing Ceremony:
 ### Deadline list
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 
@@ -37,7 +35,7 @@ All students are required to complete each exercises for understanding  each dea
 ---
 ## Education Materials
 We will notify when the materials are published on Slack.
-### Environment setting
+### Setup (environment setting)
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 
 All students are required to complete exercises  for understanding setup until 7/6.
 
