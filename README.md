@@ -8,13 +8,13 @@ This is a link to the schedule and various pages, please refer to each page for 
 
 ---
 ## Schedule
----
+
 ### Kick off
 * Wed. 6/30 : Introduction of the international PBL
----
+
 ### Pre-learning
 * Wed. 6/30 to Fri. 8/27
----
+
 ### Final Competition (Under Planning)
 * Sat. 8/28 to Sat. 9/4
   * Sat. 8/28: Opening ceremony
@@ -38,7 +38,7 @@ All students are required to complete the setup until 7/7.
 
 - [Image Processing Environment for iPBL](https://github.com/oit-ipbl/portal/blob/main/setup/python%2Bvscode.md)
   - How to install both Python and VSCode constitute of our image processing environment.
----
+
 ### Pre-Learning
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 
 All students are required to complete the Robots and Image Processing  until 7/31.
