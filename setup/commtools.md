@@ -12,8 +12,8 @@
 ## oVice
 - oVice is video conferencing service. Unlike Zoom, Google Meet, etc., oVice allows users to move freely, approach and talk to other people in the virtual space. We will use the oVice virtual space as a virtual classroom, and iPBL participants can use their team's area  in the classroom at any time.
 - URL and password(if needed) for accessing oVice virtual classroom are provided in the slack channel. Please check it.
-- [oVice English manual](https://www.notion.so/oVice-for-Newcomers-5d7c799da91f4f678bc8e772a22177d9)
 - [oVice Japanese manual](https://ja.ovice.wiki/c95380de950b4235a9c07de30be70f1d)
+- [oVice English manual](https://www.notion.so/oVice-for-Newcomers-5d7c799da91f4f678bc8e772a22177d9)
 
 ## miro
 - [miro](https://miro.com/) is an online white board service which is essential to facilitate remote team development. In this iPBL, we offer one white boad a team which url is provided at iPBL url list(See Slack).
