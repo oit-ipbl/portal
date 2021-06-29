@@ -17,8 +17,8 @@ This is a link to the schedule and various pages, please refer to each page for 
 
 ### Final Competition 
   * 8/21 : Final Competition Rules will appear on GitHub at 8/21. (You can start to prepare for final competition
-  * 8/28: Opening ceremony
-  * 9/4: Final Results Presentation and Closing Ceremony:
+  * 8/28 : Opening ceremony
+  * 9/4  : Final Results Presentation and Closing Ceremony:
 ### Deadline list
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 
 All students are required to complete each exercises for understanding  each deadline.
