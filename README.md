@@ -21,13 +21,13 @@ This is a link to the schedule and various pages, please refer to each page for 
   * 9/4  : Final Results Presentation and Closing Ceremony:
 ### Deadline list
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 
-All students are required to complete each exercises for understanding  each deadline.
+All students are required to complete each exercises until each deadline.
 |Exercises |Deadline|
 |-|-|
 |Environment setting| 7/6|
 |Robots|7/31|
 |Image Processing|7/31|
-|how to Integration and Robots Image Processing| 8/20|
+|how to Integration of Robots and Image Processing| 8/20|
 ---
 ## Place
 
