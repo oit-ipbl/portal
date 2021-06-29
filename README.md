@@ -11,15 +11,15 @@ This is a link to the schedule and various pages, please refer to each page for 
 
 ### Setup (Kickoff meeting)
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 
-All students are required to complete the setup until 7/7.
+All students are required to complete exercises  for understanding setup until 7/7.
 * 6/30 : Introduction of the international PBL
 
 ### Pre-learning
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 
-All students are required to complete the Robots and Image Processing  until 7/31.
+All students are required to complete exercises  for understanding robots and image processing  until 7/31.
 
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
-All students are required to complete the Integration until 8/20.
+All students are required to complete exercises  for understanding robots Integration until 8/20.
 *  6/30 to  8/27
 
 ### Final Competition 
@@ -37,7 +37,7 @@ All students are required to complete the Integration until 8/20.
 We will notify when the materials are published on Slack.
 ### Setup
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 
-All students are required to complete the setup until 7/7.
+All students are required to complete exercises  for understanding setup until 7/7.
 
 - [Communication Tools](https://github.com/oit-ipbl/portal/blob/main/setup/commtools.md)
   - How to use Slack, oVice and miro in this iPBL.
@@ -49,7 +49,7 @@ All students are required to complete the setup until 7/7.
 
 ### Pre-Learning
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 
-All students are required to complete the Robots and Image Processing  until 7/31.
+All students are required to complete exercises  for understanding robots and image processing  until 7/31.
 - [Robots]（See, after 7/7）
 - [Image Processing]（See, after 7/7）
 
