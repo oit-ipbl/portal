@@ -24,7 +24,7 @@ This is a link to the schedule and various pages, please refer to each page for 
 All students are required to complete each exercise before each deadline.
 |Exercises |Deadline|
 |-|-|
-|Setup (environment setting)| 7/6|
+|Set-up development environments | 7/6|
 |Pre-Learning (Robots )|7/31|
 |Pre-Learning (Image Processing)|7/31|
 |Pre-Learning (Integration of Robots and Image Processing)| 8/20|
@@ -35,7 +35,7 @@ All students are required to complete each exercise before each deadline.
 ---
 ## Education Materials
 We will notify when the materials are published on Slack.
-### Setup (environment setting)
+### Set-up development environments
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 
 All students are required to complete exercises  for understanding setup until 7/6.
 
