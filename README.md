@@ -6,6 +6,12 @@ This is a link to the schedule and various pages, please refer to each page for 
 - [Osaka Institute of Technology](http://www.oit.ac.jp/english/index.html) (OIT)
 - [Sirindhorn International Institute of Technology](https://www.siit.tu.ac.th/) (SIIT)
 
+|Sxercises|Deadline|
+|-|-|
+|Setup| 7/7|
+|Robots|7/31|
+|Image Processing|7/31|
+
 ---
 ## Schedule
 
