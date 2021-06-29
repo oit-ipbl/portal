@@ -9,7 +9,7 @@ This is a link to the schedule and various pages, please refer to each page for 
 ---
 ## Schedule
 
-### Kickoff meeting
+### Kickoff meeting 
 * 6/30 : Introduction of the international PBL
 
 ### Pre-learning
@@ -26,7 +26,7 @@ This is a link to the schedule and various pages, please refer to each page for 
 All students are required to complete each exercises for understanding setup each deadline.
 |xercises|Deadline|
 |-|-|
-|Setup| 7/7|
+|Environment setting| 7/7|
 |Robots|7/31|
 |Image Processing|7/31|
 |how to Integration|8/20|
@@ -37,7 +37,7 @@ All students are required to complete each exercises for understanding setup eac
 ---
 ## Education Materials
 We will notify when the materials are published on Slack.
-### Setup
+### Environment setting
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 
 All students are required to complete exercises  for understanding setup until 7/7.
 
