@@ -19,7 +19,7 @@ All students are required to complete exercises  for understanding setup until 7
 All students are required to complete exercises  for understanding robots and image processing  until 7/31.
 
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
-All students are required to complete exercises  for understanding Integration until 8/20.
+All students are required to complete exercises  for understanding how to Integration( robots and image processing] until 8/20.
 *  6/30 to  8/27
 
 ### Final Competition 
