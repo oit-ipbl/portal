@@ -6,26 +6,13 @@ This is a link to the schedule and various pages, please refer to each page for 
 - [Osaka Institute of Technology](http://www.oit.ac.jp/english/index.html) (OIT)
 - [Sirindhorn International Institute of Technology](https://www.siit.tu.ac.th/) (SIIT)
 
-|Sxercises|Deadline|
-|-|-|
-|Setup| 7/7|
-|Robots|7/31|
-|Image Processing|7/31|
-
 ---
 ## Schedule
 
 ### Kickoff meeting
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 
-All students are required to complete exercises  for understanding setup until 7/7.
 * 6/30 : Introduction of the international PBL
 
 ### Pre-learning
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 
-All students are required to complete exercises  for understanding robots and image processing  until 7/31.
-
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
-All students are required to complete exercises  for understanding how to Integration (robots and image processing) until 8/20.
 *  6/30 to  8/27
 
 ### Final Competition 
@@ -34,6 +21,13 @@ All students are required to complete exercises  for understanding how to Integr
   * 8/28: Opening ceremony
   * 8/30 to  9/3(5 days) PBL
   * 9/4: Final Results Presentation and Closing Ceremony:
+### Deadline list
+|Sxercises|Deadline|
+|-|-|
+|Setup| 7/7|
+|Robots|7/31|
+|Image Processing|7/31|
+|how to Integration|8/20|
 ---
 ## Place
 
