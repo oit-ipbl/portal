@@ -15,7 +15,7 @@ This is a link to the schedule and various pages, please refer to each page for 
 ### Pre-learning
 *  6/30 to  8/27
 
-### Final Competition (Under Planning)
+### Final Competition 
   * 8/21 : Final Competition Rules will appear on GitHub at 8/21. (You can start to prepare for final competition)
   *  8/28 to  9/4
   * 8/28: Opening ceremony
