@@ -22,6 +22,8 @@ This is a link to the schedule and various pages, please refer to each page for 
   * 8/30 to  9/3(5 days) PBL
   * 9/4: Final Results Presentation and Closing Ceremony:
 ### Deadline list
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 
+All students are required to complete each exercises for understanding setup each deadline.
 |Sxercises|Deadline|
 |-|-|
 |Setup| 7/7|
