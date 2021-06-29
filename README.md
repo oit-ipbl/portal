@@ -51,3 +51,4 @@ All students are required to complete the Integration until 8/20.
 - Integration of [Robots] and [Image Processing]（Coming soon）
 
 ## Final Competition
+- Regulations（see, after 8/21）
