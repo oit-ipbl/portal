@@ -16,4 +16,4 @@
 - [oVice Japanese manual](https://ja.ovice.wiki/c95380de950b4235a9c07de30be70f1d)
 
 ## miro
-- [miro](https://miro.com/) is an online white board service which is essential to facilitate remote team development. In this iPBL, we offer one white boad a team which url is provided in the slack team channel.
+- [miro](https://miro.com/) is an online white board service which is essential to facilitate remote team development. In this iPBL, we offer one white boad a team which url is provided at iPBL url list(See Slack).
