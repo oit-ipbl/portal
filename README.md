@@ -17,6 +17,7 @@ All students are required to complete the setup until 7/7.
 ### Pre-learning
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 
 All students are required to complete the Robots and Image Processing  until 7/31.
+
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
 All students are required to complete the Integration until 8/20.
 *  6/30 to  8/27
