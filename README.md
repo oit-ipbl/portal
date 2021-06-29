@@ -29,7 +29,7 @@ All students are required to complete each exercises for understanding setup eac
 |Environment setting| 7/7|
 |Robots|7/31|
 |Image Processing|7/31|
-|how to Integration o Robots Image Processing| |8/20|
+|how to Integration o Robots Image Processing| 8/20|
 ---
 ## Place
 
