@@ -9,7 +9,7 @@ This is a link to the schedule and various pages, please refer to each page for 
 ---
 ## Schedule
 
-### Setup(Kickoff meeting)
+### Setup (Kickoff meeting)
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 
 All students are required to complete the setup until 7/7.
 * 6/30 : Introduction of the international PBL
