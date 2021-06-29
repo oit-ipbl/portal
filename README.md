@@ -26,7 +26,7 @@ This is a link to the schedule and various pages, please refer to each page for 
 All students are required to complete each exercises for understanding setup each deadline.
 |Exercises |Deadline|
 |-|-|
-|Environment setting| 7/7|
+|Environment setting| 7/6|
 |Robots|7/31|
 |Image Processing|7/31|
 |how to Integration and Robots Image Processing| 8/20|
@@ -39,7 +39,7 @@ All students are required to complete each exercises for understanding setup eac
 We will notify when the materials are published on Slack.
 ### Environment setting
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 
-All students are required to complete exercises  for understanding setup until 7/7.
+All students are required to complete exercises  for understanding setup until 7/6.
 
 - [Communication Tools](https://github.com/oit-ipbl/portal/blob/main/setup/commtools.md)
   - How to use Slack, oVice and miro in this iPBL.
