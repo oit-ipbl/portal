@@ -22,7 +22,9 @@ This is a link to the schedule and various pages, please refer to each page for 
 
 - In this PBL, oVice is used.
 ---
-## Setup
+## Education Materials
+
+### Setup
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 
 All students are required to complete the setup until 7/7.
 
@@ -34,7 +36,7 @@ All students are required to complete the setup until 7/7.
 - [Image Processing Environment for iPBL](https://github.com/oit-ipbl/portal/blob/main/setup/python%2Bvscode.md)
   - How to install both Python and VSCode constitute of our image processing environment.
 ---
-## Education Materials
+### Pre-Learning
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 
 All students are required to complete the Robots and Image Processing  until 8/1.
 - [Robots]（See, after 7/7）
@@ -43,3 +45,5 @@ All students are required to complete the Robots and Image Processing  until 8/1
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
 All students are required to complete the Integration until 8/21.
 - Integration of [Robots] and [Image Processing]（Coming soon）
+
+## Final Competition
