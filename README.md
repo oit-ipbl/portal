@@ -23,7 +23,7 @@ This is a link to the schedule and various pages, please refer to each page for 
 All students are required to complete each exercise before each deadline.
 |Exercises |Deadline|
 |-|-|
-|Pre-Learning(Robots and Image Processing)| 7/6|
+|Pre-Learning (Robots and Image Processing)| 7/6|
 |Robots|7/31|
 |Image Processing|7/31|
 |How to Integration of Robots and Image Processing| 8/20|
