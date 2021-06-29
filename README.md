@@ -10,16 +10,17 @@ This is a link to the schedule and various pages, please refer to each page for 
 ## Schedule
 
 ### Kickoff meeting
-* Wed. 6/30 : Introduction of the international PBL
+* 6/30 : Introduction of the international PBL
 
 ### Pre-learning
-* Wed. 6/30 to Fri. 8/27
+*  6/30 to  8/27
 
 ### Final Competition (Under Planning)
-* Sat. 8/28 to Sat. 9/4
-  * Sat. 8/28: Opening ceremony
-  * Mon. 8/30 to Fri. 9/3(5 days) PBL
-  * Sat. 9/4: Award Ceremony
+8/21 : Final Competition Rules will appear on GitHub at 8/21. (You can start to prepare for final competition)
+*  8/28 to  9/4
+  * 8/28: Opening ceremony
+  * 8/30 to  9/3(5 days) PBL
+  * 9/4: Final Results Presentation and Closing Ceremony:
 ---
 ## Place
 
