@@ -15,7 +15,6 @@
 - We recommend to create oVice account. If you create your account, you can change your avator icon.
 - [oVice English manual](https://www.notion.so/oVice-for-Newcomers-5d7c799da91f4f678bc8e772a22177d9)
 - [oVice Japanese manual](https://ja.ovice.wiki/c95380de950b4235a9c07de30be70f1d)
-- [oVice English manual](https://www.notion.so/oVice-for-Newcomers-5d7c799da91f4f678bc8e772a22177d9)
 
 ## miro
 - [miro](https://miro.com/) is an online white board service which is essential to facilitate remote team development. In this iPBL, we offer one white board a team which url is provided at iPBL url list(See Slack).
