@@ -34,7 +34,7 @@
 ### procedure
 - Download our installer file by clicking the following url.
   - **[20210627 Update]** https://oskit-my.sharepoint.com/:u:/g/personal/takao_jinno_oit_ac_jp/EcFXD1YzQypLrUurdhg4gEwBx97nmCg7WyYAQRQQ50Bqng?e=Mw2DDR
-    - **PW is written on Slack.**
+    - **PW is written on Slack.** [link to a Slack](https://ipbl2021.slack.com/archives/CHJ2EHRTR/p1625033630017900)
     - If you have installed some antivirus software, this executable file and other batch files may not work properly.
 - Execute "py21_installer.exe" file.
   - This installer is safe.
