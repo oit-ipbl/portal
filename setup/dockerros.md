@@ -24,7 +24,12 @@
   - https://www.kkaneko.jp/tools/wsl/wsl2.html
 
 #### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)Checkpoint(WSL2)
-- It's OK, if `wsl --set-default-version 2` command on powershell is executed normally.
+- It's OK, if `wsl --set-default-version 2` command on powershell is executed normally as follows.
+
+```
+PS C:\????> wsl --set-default-version 2
+For information on key differences with WSL2 please visit https:..aka.ms/wsl2
+```
 
 ### Install Docker Desktop for Windows
 - See the following instructions.
