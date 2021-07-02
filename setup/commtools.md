@@ -22,3 +22,14 @@
 ## Automatic Transcription (for Japanese Students)
 - The following explantion is written in japanese.
 - [automatic transcription](./transcript.md)
+
+# Recommended tools
+- Here are some recommended tools. If you have any other recommendation for communication, please let us know on slack.
+
+## Pop (Screen sharing service)
+- pop is multi-user screen sharing service. It's very fast and simple.
+- https://pop.com/home
+
+## Gartic Phone (Game)
+- Telephone game. Player draws based on the bizarre sentence. very fun!
+- https://garticphone.com/ja
