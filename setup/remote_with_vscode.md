@@ -6,8 +6,8 @@
 <image src="../image/architecture.jpg">
 
 ## Prerequisite
-- "[Robot Development Environment for iPBL](setup/dockerros.md)" has already be installed.
-- "[Image Processing Environment for iPBL](setup/python+vscode.md)" has already be installed.
+- "[Robot Development Environment for iPBL](https://github.com/oit-ipbl/portal/blob/2e4097811b9ddfcdf6e5ac80b4ffa5f66edb6c32/setup/dockerros.md)" has already be installed.
+- "[Image Processing Environment for iPBL](https://github.com/oit-ipbl/portal/blob/2e4097811b9ddfcdf6e5ac80b4ffa5f66edb6c32/setup/python+vscode.md)" has already be installed.
 
 ## Setup "Remote Explorer" that is one of VSCode EXTENSIONS 
 - Run the ROS container of Robot development environment. ([more details](dockerros.md))
