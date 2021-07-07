@@ -54,6 +54,7 @@ All students are required to complete exercises  for understanding robots and im
   - How to control the robots by ROS
 - [Image Processing](https://github.com/oit-ipbl/image_processing)
   - How to use python and opencv for image processing
+
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
 All students are required to complete exercises  for understanding how to Integration (robots and image processing) until 8/20.
 - Integration of [Robots] and [Image Processing]（Coming soon）
