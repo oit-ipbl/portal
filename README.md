@@ -51,8 +51,8 @@ All students are required to complete exercises  for understanding setup until 7
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 
 All students are required to complete exercises  for understanding robots and image processing  until 7/31.
 - [Robots](https://github.com/oit-ipbl/robots)
-  - How to move the robots by ROS
-- [Image Processing]（See, after 7/7）
+  - How to control the robots by ROS
+- [Image Processing](https://github.com/oit-ipbl/image_processing)
 
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
 All students are required to complete exercises  for understanding how to Integration (robots and image processing) until 8/20.
