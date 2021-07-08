@@ -99,7 +99,7 @@ igaki/melodicvnc   latest    5f4cf41ff1d6   2 months ago   3.06GB
   - You **must not use docker desktop dashboard** to run the container.
 
 ```sh
-PS C:\Users\????\melodicvnc> docker compose up
+PS C:\Users\????\melodicvnc> docker-compose up
 Creating network "melodicvnc_default" with the default driver
 Creating melodicvnc ... done
 Attaching to melodicvnc
