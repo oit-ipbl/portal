@@ -45,7 +45,7 @@ All students are required to complete exercises  for understanding setup until 7
   - How to install Docker Desktop and ROS-melodic containers constitute of our robot development environment.
 
 - [Image Processing Environment for iPBL](https://github.com/oit-ipbl/portal/blob/main/setup/python%2Bvscode.md)
-  - How to install both Python and VSCode constitute of our image processing environment.
+   - How to install both Python and VSCode constitute of our image processing environment.
 
 ### Pre-Learning
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 
