@@ -58,6 +58,6 @@ All students are required to complete exercises  for understanding robots and im
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
 All students are required to complete exercises  for understanding how to Integration (robots and image processing) until 8/20.
 - [Integration of Robots and Image Processing](https://github.com/oit-ipbl/Integration)
- - How to integrate robot control and image processing
+  - How to integrate robot control and image processing
 ## Final Competition
 - Regulations（see, after 8/21）
