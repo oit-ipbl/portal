@@ -14,7 +14,7 @@
 - URL and password(if needed) for accessing oVice virtual classroom are provided in the slack channel. Please check it.
 - We recommend to create oVice account. If you create your account, you can change your avator icon.
 - [oVice English manual](https://www.notion.so/oVice-for-Newcomers-5d7c799da91f4f678bc8e772a22177d9)
-- [oVice Japanese manual](https://ja.ovice.wiki/c95380de950b4235a9c07de30be70f1d)
+- [oVice Japanese manual](https://ja.ovice.wiki/3c7f2895403e4c6ab82cd2c558f3bb67)
 
 ## miro
 - [miro](https://miro.com/) is an online white board service which is essential to facilitate remote team development. In this iPBL, we offer one white board a team which url is provided at iPBL url list(See Slack).
