@@ -27,10 +27,13 @@ All students are required to complete each exercise before each deadline.
 |Pre-Learning (Robots )|7/31|
 |Pre-Learning (Image Processing)|7/31|
 |Pre-Learning (Integration of Robots and Image Processing)| 8/20|
+## Opening
+
+## 
 ---
 ## Location
- - OIT Hirakata Virtual Campus 
-  - oVice https://oit-hira.ovice.in/ 
+ - OIT Hirakata Virtual Campus at oVice 
+ - - https://oit-hira.ovice.in/ 
 ---
 ## Education Materials
 We will notify when the materials are published on Slack.
@@ -60,6 +63,3 @@ All students are required to complete exercises  for understanding how to Integr
   - How to integrate robot control and image processing
 ## Final Competition
 - Regulations（see, after 8/21）
-## Opening Program 
-
-## 
