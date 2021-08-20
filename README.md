@@ -43,7 +43,7 @@ This is the time when the staff is available.
 8/28
 |-|TST|JST|
 |-|-|-|
-|  Opening ceremony (20 min.)  | 9:00  (TST) | 11:00  (JST)| 
+|  Opening ceremony | 9:00  (TST) | 11:00  (JST)| 
 |Results of vote for Cross-cultural communication and <br> creating YouTube video (Exercise 2)|  10:00  (TST) | 12:00  (JST) 
 
 ### Closing Program  
