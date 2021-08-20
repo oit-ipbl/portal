@@ -40,8 +40,8 @@ All students are required to complete each exercise before each deadline.
   - Overview of Final?Competition (20 min) 
     - Introduction about Final Competition 
      - Chair: Yuta Muraki (OIT) 
- - Schedules 
-   - Overview of international PBL 
+  - Schedules 
+    - Overview of international PBL 
 - 10:00 a.m. (TST) / 12:00 a.m. (JST) 
   - Results of vote for Cross-cultural communication and creating YouTube video (Exercise 2) (30 min.) 
    - Comments to Top 3 team videos 
