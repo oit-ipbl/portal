@@ -31,7 +31,9 @@ All students are required to complete each exercise before each deadline.
 |Pre-Learning (Robots )|7/31|
 |Pre-Learning (Image Processing)|7/31|
 |Pre-Learning (Integration of Robots and Image Processing)| 8/20|
-### Opening
+### Staff time
+ 8/30 -- 9/3 - 0:00 p.m. -- 2:00 p.m. (TST) / 2:00 p.m. -- 4:00 p.m.(JST)  and 
+### Opening Program
 - 9:00 a.m. (TST) / 11:00 a.m. (JST) 
   - Opening ceremony (20 min.) 
     - Director’s speech 
