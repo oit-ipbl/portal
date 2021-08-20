@@ -32,11 +32,6 @@ All students are required to complete each exercise before each deadline.
 |Pre-Learning (Image Processing)|7/31|
 |Pre-Learning (Integration of Robots and Image Processing)| 8/20|
 
-
-|TST|JST|
-|-|-|
-| 12:00  to 14:00  | 14:00  to 16:00 |  
-| 16:00  to 18:00  | 18:00  to 20:00 |  
 ### Opening Program 
 8/28
 - 9:00  (TST) / 11:00  (JST) 
@@ -61,6 +56,12 @@ All students are required to complete each exercise before each deadline.
 ### Staff Time
 This is the time when the staff is available.
 - 8/30 to 9/3 
+
+|TST|JST|
+|-|-|
+| 12:00  to 14:00  | 14:00  to 16:00 |  
+| 16:00  to 18:00  | 18:00  to 20:00 |  
+
 ### Closing Program  
 9/4
 - 9:00  (TST) / 11:00  (JST) 
