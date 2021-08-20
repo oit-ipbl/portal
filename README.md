@@ -43,7 +43,9 @@ This is the time when the staff is available.
 8/28
 |-|TST|JST|
 |-|-|-|
-| Opening ceremony (20 min.)  | 9:00  (TST) | 11:00  (JST)| 
+| <ul> Opening ceremony (20 min.) <li>HTMLとCSSを勉強しよう</li>
+  <li>HTMLとCSSの基本</li>
+  <li>WEBデザインを学ぼう</li> </ul> | 9:00  (TST) | 11:00  (JST)| 
 |    Director’s speech | ^ | ^ |
 |     - Katsutoshi Tsukamoto (OIT)  | ^ | ^ |
 |      - Pruettha Nanakorn (SIIT)  | ^ | ^ |
