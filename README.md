@@ -51,7 +51,7 @@ This is the time when the staff is available.
     - Introduction about Final Competition 
       - Chair: Yuta Muraki (OIT) 
   - Schedules 
-    - Overview of international PBL | |9:00  (TST) | 11:00  (JST)| 
+    - Overview of international PBL  | 9:00  (TST) | 11:00  (JST)| 
  
 - 10:00 a.m. (TST) / 12:00 a.m. (JST) 
   - Results of vote for Cross-cultural communication and creating YouTube video (Exercise 2) (30 min.) 
