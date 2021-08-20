@@ -5,7 +5,8 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 ## Participating Universities
 - [Osaka Institute of Technology](http://www.oit.ac.jp/english/index.html) (OIT)
 - [Sirindhorn International Institute of Technology](https://www.siit.tu.ac.th/) (SIIT)
-
+- - Location: OIT Hirakata Virtual Campus | oVice 
+- - -    https://oit-hira.ovice.in/ 
 ---
 ## Schedule
 
@@ -61,3 +62,6 @@ All students are required to complete exercises  for understanding how to Integr
   - How to integrate robot control and image processing
 ## Final Competition
 - Regulations（see, after 8/21）
+## Opening Program 
+
+## 
