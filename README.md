@@ -39,7 +39,7 @@ All students are required to complete each exercise before each deadline.
     - Pruettha Nanakorn (SIIT) 
 - Overview of Final?Competition (20 min) 
    - Introduction about Final Competition 
-    - Yuta Muraki (OIT) 
+    - Chair: Yuta Muraki (OIT) 
 - Schedules 
   - Overview of international PBL 
     - 10:00 a.m. (TST) / 12:00 a.m. (JST) 
