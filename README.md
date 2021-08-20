@@ -56,7 +56,7 @@ This is the time when the staff is available.
    - Comments to Top 3 team videos 
      - Chair: Lin (Alumnus of SIIT) 
 
-|-|TST|JST|
+|Event|TST|JST|
 |-|-|-|
 |  Opening ceremony | 9:00  (TST) | 11:00  (JST)| 
 |Results of vote for Cross-cultural communication and <br> creating YouTube video (Exercise 2)|  10:00  (TST) | 12:00  (JST) 
@@ -72,7 +72,7 @@ This is the time when the staff is available.
 - 14:00 p.m. (TST) / 16:00 (JST) 
   - Award Ceremony and Closing Ceremony  
 
-|-|TST|JST|
+|Event|TST|JST|
 |-|-|-|
 |Final Competition Part A |9:00|11:00 |
 |Lunch Break (1 h)  | 11:00 | 13:00 | 
