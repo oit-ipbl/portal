@@ -33,7 +33,7 @@ All students are required to complete each exercise before each deadline.
 |Pre-Learning (Integration of Robots and Image Processing)| 8/20|
 ### Opening
 
-### Closing 
+### Closing Program
 9:00 a.m. (TST) / 11:00 a.m. (JST) 
 - Final Competition Part A (2 h) 
   - 11:00 a.m. (TST) / 1:00 p.m. (JST) 
@@ -41,12 +41,9 @@ All students are required to complete each exercise before each deadline.
    - 0:00 p.m. (TST) / 2:00 p.m. (JST) 
 - Final Competition Part A (2 h) 
    - 2:00 p.m. (TST) / 4:00 p.m. (JST) 
-#### Award Ceremony (20 min) 
-#### Closing Ceremony (20 min) 
- - Reviews from Managers 
- - Makoto Hirayama (OIT) 
- - Toshiaki Kondo (SIIT) 
-- Take a Group photo 
+- Award Ceremony 
+- Closing Ceremony 
+   - 3:00 p.m. (TST) / 5:00 p.m. (JST) 
 ---
 ## Education Materials
 We will notify when the materials are published on Slack.
