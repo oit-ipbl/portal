@@ -41,8 +41,7 @@ All students are required to complete each exercise before each deadline.
    - 0:00 p.m. (TST) / 2:00 p.m. (JST) 
 - Final Competition Part A (2 h) 
    - 2:00 p.m. (TST) / 4:00 p.m. (JST) 
-- Award Ceremony 
-- Closing Ceremony 
+- Award Ceremony and Closing Ceremony 
    - 3:00 p.m. (TST) / 5:00 p.m. (JST) 
 ---
 ## Education Materials
