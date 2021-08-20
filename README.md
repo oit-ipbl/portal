@@ -34,8 +34,8 @@ All students are required to complete each exercise before each deadline.
 ### Staff Time
 This is the time when the staff is available.
 - 8/30 to 9/3 
-|-|-|
 |TST|JST|
+|-|-|
 | 12:00  to 14:00  | 14:00  to 16:00 |  
 | 16:00  to 18:00  | 18:00  to 20:00 |  
 ### Opening Program 
