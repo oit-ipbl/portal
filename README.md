@@ -36,7 +36,8 @@ This is the time when the staff is available.
 - 8/30 to 9/3 
    - 0:00  to 2:00 p.m. (TST) / 2:00  to 4:00 p.m.(JST)  
    - 4:00  to 6:00 p.m. (TST) / 6:00  to 8:00 p.m.(JST)  
-### Opening Program
+### Opening Program 
+8/28
 - 9:00 a.m. (TST) / 11:00 a.m. (JST) 
   - Opening ceremony (20 min.) 
     - Director’s speech 
@@ -51,7 +52,8 @@ This is the time when the staff is available.
   - Results of vote for Cross-cultural communication and creating YouTube video (Exercise 2) (30 min.) 
    - Comments to Top 3 team videos 
      - Chair: Lin (Alumnus of SIIT) 
-### Closing Program
+### Closing Program  
+9/4
 - 9:00 a.m. (TST) / 11:00 a.m. (JST) 
   - Final Competition Part A (2 h) 
 - 11:00 a.m. (TST) / 1:00 p.m. (JST) 
