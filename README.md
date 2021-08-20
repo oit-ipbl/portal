@@ -33,7 +33,7 @@ All students are required to complete each exercise before each deadline.
 ---
 ## Location
  - OIT Hirakata Virtual Campus at oVice 
- - - https://oit-hira.ovice.in/ 
+   - https://oit-hira.ovice.in/ 
 ---
 ## Education Materials
 We will notify when the materials are published on Slack.
