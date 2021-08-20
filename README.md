@@ -41,6 +41,21 @@ This is the time when the staff is available.
 | 16:00  to 18:00  | 18:00  to 20:00 |  
 ### Opening Program 
 8/28
+- 9:00  (TST) / 11:00  (JST) 
+  - Opening ceremony (20 min.) 
+    - Director’s speech 
+      - Katsutoshi Tsukamoto (OIT) 
+      - Pruettha Nanakorn (SIIT) 
+  - Overview of Final?Competition (20 min) 
+    - Introduction about Final Competition 
+      - Chair: Yuta Muraki (OIT) 
+  - Schedules 
+    - Overview of international PBL 
+- 10:00 a.m. (TST) / 12:00 a.m. (JST) 
+  - Results of vote for Cross-cultural communication and creating YouTube video (Exercise 2) (30 min.) 
+   - Comments to Top 3 team videos 
+     - Chair: Lin (Alumnus of SIIT) 
+
 |-|TST|JST|
 |-|-|-|
 |  Opening ceremony | 9:00  (TST) | 11:00  (JST)| 
