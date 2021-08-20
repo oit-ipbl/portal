@@ -41,7 +41,8 @@ This is the time when the staff is available.
 | 16:00  to 18:00  | 18:00  to 20:00 |  
 ### Opening Program 
 8/28
-- 9:00 a.m. (TST) / 11:00 a.m. (JST) 
+
+- 9:00  (TST) / 11:00  (JST) 
   - Opening ceremony (20 min.) 
     - Director’s speech 
       - Katsutoshi Tsukamoto (OIT) 
@@ -57,13 +58,13 @@ This is the time when the staff is available.
      - Chair: Lin (Alumnus of SIIT) 
 ### Closing Program  
 9/4
-- 9:00 a.m. (TST) / 11:00 a.m. (JST) 
+- 9:00  (TST) / 11:00  (JST) 
   - Final Competition Part A (2 h) 
-- 11:00 a.m. (TST) / 1:00 p.m. (JST) 
+- 11:00  (TST) / 13:00  (JST) 
   - Lunch Break (1 h) 
-- 0:00 p.m. (TST) / 2:00 p.m. (JST) 
+- 12:00  (TST) / 14:00  (JST) 
   - Final Competition Part A (2 h) 
-- 2:00 p.m. (TST) / 4:00 p.m. (JST) 
+- 14:00 p.m. (TST) / 16:00 (JST) 
   - Award Ceremony and Closing Ceremony  
 ---
 ## Education Materials
