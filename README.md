@@ -5,9 +5,6 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 ## Participating Universities
 - [Osaka Institute of Technology](http://www.oit.ac.jp/english/index.html) (OIT)
 - [Sirindhorn International Institute of Technology](https://www.siit.tu.ac.th/) (SIIT)
-## Location
-   * OIT Hirakata Virtual Campus 
-   * oVice https://oit-hira.ovice.in/ 
 ---
 ## Schedule
 
@@ -31,9 +28,9 @@ All students are required to complete each exercise before each deadline.
 |Pre-Learning (Image Processing)|7/31|
 |Pre-Learning (Integration of Robots and Image Processing)| 8/20|
 ---
-## Place
-
-- In this PBL, oVice is used.
+## Location
+   * OIT Hirakata Virtual Campus 
+   * oVice https://oit-hira.ovice.in/ 
 ---
 ## Education Materials
 We will notify when the materials are published on Slack.
