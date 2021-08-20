@@ -71,6 +71,13 @@ This is the time when the staff is available.
   - Final Competition Part A (2 h) 
 - 14:00 p.m. (TST) / 16:00 (JST) 
   - Award Ceremony and Closing Ceremony  
+
+|-|TST|JST|
+|-|-|-|
+|Final Competition Part A |9:00|11:00 |
+|Lunch Break (1 h)  | 11:00 | 13:00 | 
+|Final Competition Part A (2 h) 12:00  (TST) | 14:00  (JST) |
+|Award Ceremony and Closing Ceremony  |14:00 p.m. (TST) | 16:00 (JST) |
 ---
 ## Education Materials
 We will notify when the materials are published on Slack.
