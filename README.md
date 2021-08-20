@@ -43,21 +43,9 @@ This is the time when the staff is available.
 8/28
 |-|TST|JST|
 |-|-|-|
-| <ul> Opening ceremony (20 min.) <li>HTMLとCSSを勉強しよう</li>
-  <li>HTMLとCSSの基本</li><li>WEBデザインを学ぼう</li> </ul> | 9:00  (TST) | 11:00  (JST)| 
-|    Director’s speech | ^ | ^ |
-|     - Katsutoshi Tsukamoto (OIT)  | ^ | ^ |
-|      - Pruettha Nanakorn (SIIT)  | ^ | ^ |
-|  - Overview of Final?Competition (20 min) | ^ | ^ |
-|    - Introduction about Final Competition | ^ | ^ |
-|      - Chair: Yuta Muraki (OIT) | ^ | ^ |
-|  - Schedules | ^ | ^ |
-|    - Overview of international PBL  | ^ | ^ |
- 
-- 10:00 a.m. (TST) / 12:00 a.m. (JST) 
-  - Results of vote for Cross-cultural communication and creating YouTube video (Exercise 2) (30 min.) 
-   - Comments to Top 3 team videos 
-     - Chair: Lin (Alumnus of SIIT) 
+|  Opening ceremony (20 min.)  | 9:00  (TST) | 11:00  (JST)| 
+|Results of vote for Cross-cultural communication and creating YouTube video (Exercise 2)|  10:00  (TST) | 12:00  (JST) 
+
 ### Closing Program  
 9/4
 - 9:00  (TST) / 11:00  (JST) 
