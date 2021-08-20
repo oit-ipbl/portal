@@ -32,7 +32,20 @@ All students are required to complete each exercise before each deadline.
 |Pre-Learning (Image Processing)|7/31|
 |Pre-Learning (Integration of Robots and Image Processing)| 8/20|
 ### Opening
-
+9:00 a.m. (TST) / 11:00 a.m. (JST) 
+- Opening ceremony (20 min.) 
+  - Director’s speech 
+    - Katsutoshi Tsukamoto (OIT) 
+    - Pruettha Nanakorn (SIIT) 
+- Overview of Final?Competition (20 min) 
+   - Introduction about Final Competition 
+    - Yuta Muraki (OIT) 
+- Schedules 
+  - Overview of international PBL 
+    - 10:00 a.m. (TST) / 12:00 a.m. (JST) 
+- Results of vote for Cross-cultural communication and creating YouTube video (Exercise 2) (30 min.) 
+  - Comments to Top 3 team videos 
+    - Chair: Lin (Alumnus of SIIT) 
 ### Closing Program
 9:00 a.m. (TST) / 11:00 a.m. (JST) 
 - Final Competition Part A (2 h) 
