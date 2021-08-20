@@ -52,7 +52,7 @@ Please watch the videos of the other teams with team members, and vote until Aug
 - The rules for the final competition will be released on 8/23. Please refer to the results of Team Exercise1 of each team and try to develop a better program.
 - Our staff will be at the space from 8/30 to 9/3 at the times listed below. If you have any questions, please feel free to ask them on Slack or directly to the staff.
 
-### Staff Time
+#### Staff Time
 This is the time when the staff is available on oVice staff space.
 - 8/30 to 9/3 
 
@@ -72,8 +72,7 @@ This is the time when the staff is available on oVice staff space.
 ## Education Materials
 We will notify when the materials are published on Slack.
 ### Set-up development environments
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 
-All students are required to complete exercises  for understanding setup until 7/6.
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) All students are required to complete exercises  for understanding setup until 7/6.
 
 - [Communication Tools](https://github.com/oit-ipbl/portal/blob/main/setup/commtools.md)
   - How to use Slack, oVice and miro in this iPBL.
@@ -84,16 +83,14 @@ All students are required to complete exercises  for understanding setup until 7
    - How to install both Python and VSCode constitute of our image processing environment.
 
 ### Pre-Learning
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 
-All students are required to complete exercises  for understanding robots and image processing  until 7/31.
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) All students are required to complete exercises  for understanding robots and image processing  until 7/31.
 - [Robots](https://github.com/oit-ipbl/robots)
   - How to control the robots by ROS
 - [Image Processing](https://github.com/oit-ipbl/image_processing)
   - How to use python and opencv for image processing
 
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
-All students are required to complete exercises  for understanding how to Integration (robots and image processing) until 8/20.
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) All students are required to complete exercises  for understanding how to Integration (robots and image processing) until 8/20.
 - [Integration](https://github.com/oit-ipbl/Integration)
   - How to integrate robot control and image processing
 ## Final Competition
-- Regulations（see, after 8/21）
+- Regulations（see, after 8/23）
