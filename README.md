@@ -6,6 +6,10 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 - [Osaka Institute of Technology](http://www.oit.ac.jp/english/index.html) (OIT)
 - [Sirindhorn International Institute of Technology](https://www.siit.tu.ac.th/) (SIIT)
 ---
+## Location
+ - OIT Hirakata Virtual Campus at oVice 
+   - https://oit-hira.ovice.in/ 
+---
 ## Schedule
 
 ### Kickoff meeting 
@@ -29,11 +33,8 @@ All students are required to complete each exercise before each deadline.
 |Pre-Learning (Integration of Robots and Image Processing)| 8/20|
 ## Opening
 
-## 
----
-## Location
- - OIT Hirakata Virtual Campus at oVice 
-   - https://oit-hira.ovice.in/ 
+## Closing 
+
 ---
 ## Education Materials
 We will notify when the materials are published on Slack.
