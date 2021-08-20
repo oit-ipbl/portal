@@ -32,12 +32,12 @@ All students are required to complete each exercise before each deadline.
 |Pre-Learning (Image Processing)|7/31|
 |Pre-Learning (Integration of Robots and Image Processing)| 8/20|
 ### Opening
-9:00 a.m. (TST) / 11:00 a.m. (JST) 
-- Opening ceremony (20 min.) 
-  - Director’s speech 
-    - Katsutoshi Tsukamoto (OIT) 
-    - Pruettha Nanakorn (SIIT) 
-- Overview of Final?Competition (20 min) 
+- 9:00 a.m. (TST) / 11:00 a.m. (JST) 
+ - Opening ceremony (20 min.) 
+   - Director’s speech 
+     - Katsutoshi Tsukamoto (OIT) 
+     - Pruettha Nanakorn (SIIT) 
+ - Overview of Final?Competition (20 min) 
    - Introduction about Final Competition 
     - Chair: Yuta Muraki (OIT) 
 - Schedules 
@@ -47,15 +47,14 @@ All students are required to complete each exercise before each deadline.
   - Comments to Top 3 team videos 
     - Chair: Lin (Alumnus of SIIT) 
 ### Closing Program
-9:00 a.m. (TST) / 11:00 a.m. (JST) 
-- Final Competition Part A (2 h) 
-  - 11:00 a.m. (TST) / 1:00 p.m. (JST) 
-- Lunch Break (1 h) 
-   - 0:00 p.m. (TST) / 2:00 p.m. (JST) 
-- Final Competition Part A (2 h) 
-   - 2:00 p.m. (TST) / 4:00 p.m. (JST) 
-- Award Ceremony and Closing Ceremony 
-   - 3:00 p.m. (TST) / 5:00 p.m. (JST) 
+- 9:00 a.m. (TST) / 11:00 a.m. (JST) 
+  - Final Competition Part A (2 h) 
+- 11:00 a.m. (TST) / 1:00 p.m. (JST) 
+  - Lunch Break (1 h) 
+- 0:00 p.m. (TST) / 2:00 p.m. (JST) 
+  - Final Competition Part A (2 h) 
+- 2:00 p.m. (TST) / 4:00 p.m. (JST) 
+  - Award Ceremony and Closing Ceremony  
 ---
 ## Education Materials
 We will notify when the materials are published on Slack.
