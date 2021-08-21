@@ -8,7 +8,6 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 ---
 ## Location
  - OIT Hirakata Virtual Campus at oVice 
-   - https://oit-hira.ovice.in/ 
 ---
 ## Pre-learning Schedule 
 
