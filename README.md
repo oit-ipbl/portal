@@ -93,4 +93,5 @@ We will notify when the materials are published on Slack.
   - How to integrate robot control and image processing
 - ---
 ## Final Competition
-- [Regulations](https://github.com/oit-ipbl/final_competition)
+- [Regulations](https://github.com/oit-ipbl/final_competition) 
+  - for the final competition, you are going to develop a program that combines robotics and image processing 
