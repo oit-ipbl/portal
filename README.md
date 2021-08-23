@@ -93,4 +93,4 @@ We will notify when the materials are published on Slack.
   - How to integrate robot control and image processing
 - ---
 ## Final Competition
-- Regulations（see, after 8/23）
+- [Regulations](https://github.com/oit-ipbl/final_competition)
