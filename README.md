@@ -94,4 +94,4 @@ We will notify when the materials are published on Slack.
 - ---
 ## Final Competition
 - [About final competition ](https://github.com/oit-ipbl/final_competition) 
-  - For the final competition, you are going to develop a program that combines robotics and image processing 
+  - Detailed information about rules, submissions, and evaluation criteria.
