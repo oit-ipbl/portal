@@ -93,6 +93,6 @@ We will notify when the materials are published on Slack.
   - How to integrate robot control and image processing
 - ---
 ## Final Competition
-(https://via.placeholder.com/15/f03c15/000000?text=+) Each team should submit the following 5 materials)	9/3 22:00 (Thai), 24:00 (Jp)
+!(https://via.placeholder.com/15/f03c15/000000?text=+) Each team should submit the following 5 materials)	9/3 22:00 (Thai), 24:00 (Jp)
 - [About final competition ](https://github.com/oit-ipbl/final_competition) 
   - Detailed information about rules, submissions, and evaluation criteria.
