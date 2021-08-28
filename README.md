@@ -30,7 +30,7 @@ Please watch the videos of the other teams with team members, and vote until Aug
 |Pre-Learning (Robots )|7/31|
 |Pre-Learning (Image Processing)|7/31|
 |Pre-Learning (Integration of Robots and Image Processing)| 8/20|
-|Submissions (Each team should submit the following 5 materials)| 9/3 22:00 (Thai), 24:00 (Jp)|
+|Final Submissions (Each team should submit [the 5 materials](https://github.com/oit-ipbl/final_competition#submissions))| 9/3 22:00 (Thai), 24:00 (Jp)|
 ---
 ## Final Competition (Main iPBL week) Schedule
   * 8/23 : Final Competition Rules will appear here at 8/23. 
