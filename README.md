@@ -63,7 +63,7 @@ This is the time when the staff is available on oVice staff space.
 ### Closing ceremony(9/4)  
 |Event|TST|JST|
 |-|-|-|
-|Final Competition Part A |9:00|11:00 |
+|Final Competition Part A(including lunch) |9:00|11:00 |
 |Final Competition Part B |12:30   | 14:30   |
 |Award Ceremony and Closing  |14:00 | 16:00  |
 ---
