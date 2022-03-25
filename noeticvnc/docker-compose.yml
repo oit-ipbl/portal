@@ -1,8 +1,8 @@
 version: '3'
 services:
-  melodicvnc:
-    container_name: melodicvnc
-    image: igaki/melodicvnc:v1.2.0
+  noeticvnc:
+    container_name: noeticvnc
+    image: igaki/noeticvnc:latest
     volumes:
       - catkin_ws:/catkin_ws
       - ubuntu:/home/ubuntu
