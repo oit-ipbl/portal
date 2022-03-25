@@ -60,55 +60,55 @@ Docker version 20.10.5, build 55c4c88
   - https://github.com/oit-ipbl/portal/archive/refs/heads/main.zip
 - Unzip portal-main.zip file.
 - Open portal-main directory on windows terminal (or powershell).
-- Next, execute `cd melodicvnc`
- - All the following commands must be executed in the melodicvnc directory.
+- Next, execute `cd noeticvnc`
+ - All the following commands must be executed in the noeticvnc directory.
 <image src="../image/powershell_melodicvnc.jpg">
   
-- You can see the file `docker-compose.yml` in the melodicvnc directory.
+- You can see the file `docker-compose.yml` in the noeticvnc directory.
 - Get the Ros container.
   - You type the following command after `>` (In this case, type `docker-compose pull`).
 - This command downloads a ROS container(about 3GB) from Docker Hub.
 
 ```sh
-PS C:\Users\????\melodicvnc> docker-compose pull
-Pulling melodicvnc ... downloading (?.?%)
+PS C:\Users\????\noeticvnc> docker-compose pull
+Pulling noeticvnc ... downloading (?.?%)
 ```
 
 - Finally, the command shows `done`.
 
 ```sh
-PS C:\Users\????\melodicvnc> docker-compose pull
-Pulling melodicvnc ... done
-PS C:\Users\????\melodicvnc>
+PS C:\Users\????\noeticvnc> docker-compose pull
+Pulling noeticvnc ... done
+PS C:\Users\????\noeticvnc>
 ```
 
 #### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)Checkpoint(ROS image)
 - Please confirm the ROS container image was downloaded in the windows terminal (or powershell).
 
 ```sh
-PS C:\Users\????\melodicvnc> docker images
+PS C:\Users\????\noeticvnc> docker images
 REPOSITORY         TAG       IMAGE ID       CREATED        SIZE
-igaki/melodicvnc   latest    5f4cf41ff1d6   2 months ago   3.06GB
+igaki/noeticvnc   latest    5f4cf41ff1d6   2 months ago   3.06GB
 ```
 
 ### Run the ROS container
-- Please run the `igaki/melodicvnc` container by the following commands
-- 1) You must be in the melodicvnc directory by windows terminal (or powershell).
-- 2) Confirm the docker-compose.yml in the melodicvnc directory
+- Please run the `igaki/noeticvnc` container by the following commands
+- 1) You must be in the noeticvnc directory by windows terminal (or powershell).
+- 2) Confirm the docker-compose.yml in the noeticvnc directory
 - 3) Execute `docker-compose up`
   - You **must not use docker desktop dashboard** to run the container.
 
 ```sh
-PS C:\Users\????\melodicvnc> docker-compose up
-Creating network "melodicvnc_default" with the default driver
-Creating melodicvnc ... done
-Attaching to melodicvnc
-melodicvnc    | **Making workspace. Target ros-melodic**
-melodicvnc    | File "/catkin_ws/src/CMakeLists.txt" already existsBase path: /home/ubuntu/catkin_ws
+PS C:\Users\????\noeticvnc> docker-compose up
+Creating network "noeticvnc_default" with the default driver
+Creating noeticvnc ... done
+Attaching to noeticvnc
+noeticvnc    | **Making workspace. Target ros-noetic**
+noeticvnc    | File "/catkin_ws/src/CMakeLists.txt" already existsBase path: /home/ubuntu/catkin_ws
 :
 :
-melodicvnc    | 2021-06-09 18:22:16,555 INFO success: x11vnc entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
-melodicvnc    | 2021-06-09 18:22:16,556 INFO success: novnc entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+noeticvnc    | 2021-06-09 18:22:16,555 INFO success: x11vnc entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+noeticvnc    | 2021-06-09 18:22:16,556 INFO success: novnc entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
 ```
 - If you want to stop the container, press Ctrl+C.
 
@@ -164,7 +164,7 @@ melodicvnc    | 2021-06-09 18:22:16,556 INFO success: novnc entered RUNNING stat
 
 #### How to access files and directories in the ROS container
 - Access `\\wsl$\docker-desktop-data\version-pack-data\community\docker\volumes` on the windows explorer as follows.
-- You can see two directiries `melodicvnc_catkin_ws` and `melodicvnc_ubuntu` in the `volumes` directory.
+- You can see two directiries `noeticvnc_catkin_ws` and `noeticvnc_ubuntu` in the `volumes` directory.
 - These directoryies correspond to `/catkin_ws` and `/home/ubuntu/` directories in the ROS container, respectively.
 
 <image src="../image/explorer.jpg">
@@ -172,7 +172,7 @@ melodicvnc    | 2021-06-09 18:22:16,556 INFO success: novnc entered RUNNING stat
 
 ### Change Timezone of the ROS Container
 - First, stop the container with `Ctrl+C` command on the powershell.
-- Open the file `docker-compose.yml` in the melodicvnc directory.
+- Open the file `docker-compose.yml` in the noeticvnc directory.
 - In the following `docker-compose.yml`, `TZ=Asia/Tokyo` means the ros container is set as japan standard time(UTC+9).
 - If you want to set thai timezone (UTC+7), you should change `TZ=Asia/Tokyo` to `TZ=Asia/Bangkok`.
 - Change timezone setting and start the container with `docker-compose up`.
@@ -180,9 +180,9 @@ melodicvnc    | 2021-06-09 18:22:16,556 INFO success: novnc entered RUNNING stat
 ```yml
 version: '3'
 services:
-  melodicvnc:
-    container_name: melodicvnc
-    image: igaki/melodicvnc:v1.2.0
+  noeticvnc:
+    container_name: noeticvnc
+    image: igaki/noeticvnc:latest
     volumes:
       - catkin_ws:/catkin_ws
       - ubuntu:/home/ubuntu
