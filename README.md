@@ -1,4 +1,4 @@
-#  IPBL Portal Site for OIT and SIIT in 2021
+#  IPBL Portal Site for OIT and SIIT in 2022
 
 This page shows the iPBL schedule, deadlines for each assignment, and educational materials. For other URLs, please see the iPBL URL List provided in Slack.
 <!-- SETUPが7/6まで，ロボと画像処理の事前課題が8/1まで，統合課題が8/20まで（メモ書きです消します）-->
