@@ -2,26 +2,25 @@
 
 ## Objectives
 - This page explains how to install Docker Desktop and ROS-noetic containers constitute of our robot development environment.
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)Note: The version of Python used in the robot development environment (Ubuntu18 Docker container) is different from that used in the image processing environment (Windows). python2.7 is used in the RDE and python3.8 is used in the IPE.
+- **Note:** The miner version of Python used in the robot development environment (Ubuntu20 Docker container) is different from that used in the image processing environment (Windows). python3.8.10 is used in the RDE and python3.X is used in the IPE.
 
 <image src="../image/architecture.jpg">
 
 ## prerequisite
-- Windows10
-  - You may be able to use this development platform for iPBL on OS other than Windows 10, but we cannot provide any support. If you use other OS such as intel Mac, M1 Mac, etc. please set it up at your own risk.
-- 8GB Memory
-- 10GB HDD(strongly recommend to use SSD)
+- Windows10 or 11
+  - You may be able to use this development platform for iPBL on OS other than Windows 10(or Windows11), but we cannot provide any support. If you use other OS such as intel Mac, M1 Mac, etc. please set it up at your own risk.
+- 8GB Memory or more
+- 10GB HDD or more(strongly recommend to use SSD)
 
 ## Setup Docker
-- Docker Desktop for Windows is Docker designed to run on Windows 10. This application supports running Linux Docker containers. Our iPBL uses Docker for running ROS application and robot simulator in ubuntu container on windows 10.
+- Docker Desktop for Windows is Docker designed to run on Windows 10 or 11. This application supports running Linux Docker containers. Our iPBL uses Docker for running ROS application and robot simulator in ubuntu container on windows 10 or 11.
 
 ### Setup WSL2(Windows Subsystem for Linux)
 - Docker desktop for windows requires WSL2(Windows Subsystem for Linux version2). If you didn't setup WSL2, please install it first.
-- English manual: https://docs.microsoft.com/en-us/windows/wsl/install-win10
-  - Almost all students should select manual install.
-- Japanese manual: https://docs.microsoft.com/ja-jp/windows/wsl/install-win10#step-4---download-the-linux-kernel-update-package
+- English manual: https://docs.microsoft.com/en-us/windows/wsl/install
+- Japanese manual: https://docs.microsoft.com/ja-jp/windows/wsl/install
   - 手動インストールの説明を見てセットアップしてください．下記サイトも参考になります．
-  - https://www.kkaneko.jp/tools/wsl/wsl2.html
+  - https://chigusa-web.com/blog/wsl2-win11/
 
 #### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)Checkpoint(WSL2)
 - It's OK, if `wsl --set-default-version 2` command on powershell is executed normally as follows.
@@ -33,8 +32,8 @@ For information on key differences with WSL2 please visit https:..aka.ms/wsl2
 
 ### Install Docker Desktop for Windows
 - See the following instructions.
-  - English manual: https://docs.docker.com/docker-for-windows/install/
-  - Japanese manual: https://docs.docker.jp/docker-for-windows/install.html
+  - Download Docker Desktop for Windows and Install
+  - https://docs.docker.com/desktop/windows/install/
 
 #### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)Checkpoint(Docker on WSL)
 - After installation of Docker, you must start Docker Desktop and confirm `Use the WSL2 based engine` is checked in the settings of the Docker.
@@ -51,7 +50,7 @@ For information on key differences with WSL2 please visit https:..aka.ms/wsl2
 - Please confirm the Docker version (maybe version 20 or over).
 ```sh
 PS C:\Users\????\ipbl> docker --version
-Docker version 20.10.5, build 55c4c88
+Docker version 20.10.14, build a224086
 ```
 
 ## Set up ROS Environment
@@ -115,16 +114,13 @@ noeticvnc    | 2021-06-09 18:22:16,556 INFO success: novnc entered RUNNING state
 #### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)Checkpoint(Access to the ROS container on browser)
 - During running the ROS container, Access `http://localhost:8000/`.
 - You can see ubuntu Desktop on the browser.
-- When you enter the ROS container first, you should select window panel setting. We recommend to select `Use Default Config`.
-
-<image src="../image/ubuntu_panel.jpg" width=300>
 
 ### Install VNC Client
 - Because of its performance and functionality (for ex. copy and paste between windows and linux container), we strongly recommend to use VNC client to access inside the ROS container.
 - If you can use vnc client, you can access `localhost:5900` during running the ROS container.
 - If you don't have any vnc client, we recommend to install real vnc client(VNC Viewer)
   - https://www.realvnc.com/en/connect/download/viewer/
-    - You can download suitable vnc viewer software. We recommend `Standalone EXE x64` for windows 10.
+    - You can download suitable vnc viewer software. We recommend `Standalone EXE x64` for windows 10 or 11.
   - Please start the vnc viewer, and select File->New Connection.
   - Input `localhost:5900` in the VNC Server area, and press `OK`.
   - Select and Connect.
@@ -134,9 +130,6 @@ noeticvnc    | 2021-06-09 18:22:16,556 INFO success: novnc entered RUNNING state
 
 #### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)Checkpoint(Access to the ROS container on VNC Viewer)
 - You can see ubuntu Desktop in the window of the VNC Viewer.
-  - When you enter the ROS container first, you should select window panel setting. We recommend to select `Use Default Config`.
-
-<image src="../image/ubuntu_panel.jpg" width=300>
 
 <image src="../image/ubuntu_vnc.jpg">
 
@@ -148,14 +141,6 @@ noeticvnc    | 2021-06-09 18:22:16,556 INFO success: novnc entered RUNNING state
 - As follows, click the icon of the terminal in the ros container, and execute `cd ~/catkin_ws` to run various ros programs.
 
 <image src="../image/ubuntu_terminal.jpg">
-
-### Copy and paste between windows and ubuntu(ROS container)
-
-- Basically, you can paste strings that you copied in Windows into the container (and vice versa).
-- However, the string you copied in Windows cannot be pasted directly into the terminal emulator in the container (probably due to the specification of the container and the VNC client).
-- In that case, you can copy strings in the following two ways.
-  1. Open the educational material in the container's web browser (Chrome) and copy the strings in the container. You can paste the strings to the terminal emulator.
-  2. Paste strings you copied on Windows once into the editor or address bar of the browser in the container. You can paste the strings that you copied again in the container into the terminal emulator.
 
 ### Direct access directory and files inside the ROS container 
 - Some directories in the container can be accessed directly from Windows without using the VNC client.
