@@ -37,7 +37,7 @@ For information on key differences with WSL2 please visit https:..aka.ms/wsl2
   - Download Docker Desktop for Windows and Install
   - https://docs.docker.com/desktop/windows/install/
 
-#### :exclamation:Checkpoint(Docker on WSL)
+#### :o:Checkpoint(Docker on WSL)
 - After installation of Docker, you must start Docker Desktop and confirm `Use the WSL2 based engine` is checked in the settings of the Docker.
 <image src="../image/dockersetting.jpg">
 
@@ -47,7 +47,7 @@ For information on key differences with WSL2 please visit https:..aka.ms/wsl2
 - You can install Windows Terminal through Microsoft Store
   - https://aka.ms/terminal
 
-#### :exclamation:Checkpoint(Docker version)
+#### :o:Checkpoint(Docker version)
 - Start Windows Terminal (or powershell), and execute the following command.
 - Please confirm the Docker version (maybe version 20 or over).
 ```sh
@@ -85,7 +85,7 @@ Pulling noeticvnc ... done
 PS C:\Users\????\noeticvnc>
 ```
 
-#### :exclamation:Checkpoint(ROS image)
+#### :o:Checkpoint(ROS image)
 - Please confirm the ROS container image was downloaded in the windows terminal (or powershell).
 
 ```sh
@@ -115,7 +115,7 @@ noeticvnc    | 2021-06-09 18:22:16,556 INFO success: novnc entered RUNNING state
 ```
 - If you want to stop the container, press Ctrl+C.
 
-#### :exclamation:Checkpoint(Access to the ROS container on browser)
+#### :o:Checkpoint(Access to the ROS container on browser)
 - During running the ROS container, Access `http://localhost:8000/`.
 - You can see ubuntu Desktop on the browser.
 
@@ -132,7 +132,7 @@ noeticvnc    | 2021-06-09 18:22:16,556 INFO success: novnc entered RUNNING state
 
 <image src="../image/realvnc.jpg">
 
-#### :exclamation:Checkpoint(Access to the ROS container on VNC Viewer)
+#### :o:Checkpoint(Access to the ROS container on VNC Viewer)
 - You can see ubuntu Desktop in the window of the VNC Viewer.
 
 <image src="../image/ubuntu_vnc.jpg">
