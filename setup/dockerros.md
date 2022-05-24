@@ -2,7 +2,9 @@
 
 ## Objectives
 - This page explains how to install Docker Desktop and ROS-noetic containers constitute of our robot development environment.
-> **Note:** The miner version of Python used in the robot development environment (Ubuntu20 Docker container) is different from that used in the image processing environment (Windows). python3.8.10 is used in the RDE and python3.X is used in the IPE.
+:::Note warn
+ The minor version of Python used in the robot development environment (Ubuntu20 Docker container) is different from that used in the image processing environment (Windows). python3.8.10 is used in the RDE and python3.X is used in the IPE.
+:::
 
 <image src="../image/architecture.jpg">
 
