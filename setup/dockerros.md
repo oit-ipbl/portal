@@ -89,7 +89,7 @@ PS C:\Users\????\noeticvnc>
 ```sh
 PS C:\Users\????\noeticvnc> docker images
 REPOSITORY         TAG       IMAGE ID       CREATED        SIZE
-igaki/noeticvnc   latest    5f4cf41ff1d6   2 months ago   3.06GB
+igaki/noeticvnc   latest    5f4cf41ff1d6   1 month ago   4.16GB
 ```
 
 ### Run the ROS container
@@ -148,7 +148,7 @@ noeticvnc    | 2021-06-09 18:22:16,556 INFO success: novnc entered RUNNING state
 - Some directories in the container can be accessed directly from Windows without using the VNC client.
 - For example, you can copy image files, etc. from windows into the ROS container in the following way.
 > **Note**
-> It is strongly recommended that you access program files such as python only from within the container or from the remote container plugin of vscode. This may cause problems with permissions and other issues.
+> It is strongly recommended that you should access program files such as python code only from inside the container or from the remote container plugin of vscode. This may cause problems with permissions and other issues.
 
 #### How to access files and directories in the ROS container
 - Access `\\wsl$\docker-desktop-data\version-pack-data\community\docker\volumes` on the windows explorer as follows.
