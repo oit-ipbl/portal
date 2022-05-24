@@ -31,7 +31,7 @@
     <image src="../image/catkin_ws_vscode.png">
   - "catkin_ws" folder inside the ROS container is opened.
 
-### :exclamation:Checkpoint("Remote Environment")
+### :o:Checkpoint("Remote Environment")
 - Open "New Terminal" on VSCode.<br>
   <image src="../image/new_terminal_vscode.png">
 - Execute `python --version`, and please confirm the python version inside the ROS container.
@@ -42,7 +42,7 @@
 > **Note**
 > The version of Python used in the robot development environment (Ubuntu20 Docker container) is different from that used in the image processing environment (Windows). python3.8 is used in the RDE and python3.9 is used in the IPE.
 
-### :exclamation:Checkpoint("Remote Explorer")
+### :o:Checkpoint("Remote Explorer")
 - Open "src/CMakeLists.txt" in "catkin_ws\src" folder inside the ROS container on VSCode.<br>
     <image src="../image/CMakeList_on_vscode.png">
 - Open the same file on a VNC Client. ([more details](dockerros.md))<br>
