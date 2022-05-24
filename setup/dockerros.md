@@ -24,7 +24,7 @@
   - 手動インストールの説明を見てセットアップしてください．下記サイトも参考になります．
   - https://chigusa-web.com/blog/wsl2-win11/
 
-#### :exclamation:Checkpoint(WSL2)
+#### :red_square:Checkpoint(WSL2)
 - It's OK, if `wsl --set-default-version 2` command on powershell is executed normally as follows.
 
 ```
