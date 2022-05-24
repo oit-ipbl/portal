@@ -63,12 +63,14 @@ Docker version 20.10.14, build a224086
 - Open portal-main directory on windows terminal (or powershell).
 - Next, execute `cd noeticvnc`
  - All the following commands must be executed in the noeticvnc directory.
-<image src="../image/powershell_melodicvnc.jpg">
+<image src="../image/powershell_noeticvnc.jpg">
   
 - You can see the file `docker-compose.yml` in the noeticvnc directory.
 - Get the Ros container.
   - You type the following command after `>` (In this case, type `docker-compose pull`).
-- This command downloads a ROS container(about 3GB) from Docker Hub.
+> **note**
+> If DockerException has occured, please confirm that the Docker Desktop for Windows is running.
+- This command downloads a ROS container(about 4GB) from Docker Hub.
 
 ```sh
 PS C:\Users\????\noeticvnc> docker-compose pull

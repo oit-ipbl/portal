@@ -40,11 +40,11 @@
   Python 3.8.10
   ```
 > **Note**
-> The version of Python used in the robot development environment (Ubuntu18 Docker container) is different from that used in the image processing environment (Windows). python3.8 is used in the RDE and python3.9 is used in the IPE.
+> The version of Python used in the robot development environment (Ubuntu20 Docker container) is different from that used in the image processing environment (Windows). python3.8 is used in the RDE and python3.9 is used in the IPE.
 
 ### :exclamation:Checkpoint("Remote Explorer")
 - Open "src/CMakeLists.txt" in "catkin_ws\src" folder inside the ROS container on VSCode.<br>
     <image src="../image/CMakeList_on_vscode.png">
 - Open the same file on a VNC Client. ([more details](dockerros.md))<br>
-    <image src="../image/CMakeList_on_VNC_client.png">
+    <image src="../image/CMakeList_on_VNC_client.jpg">
 - Please confirm two texts are the same.
