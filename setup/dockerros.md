@@ -37,7 +37,7 @@ For information on key differences with WSL2 please visit https:..aka.ms/wsl2
   - Download Docker Desktop for Windows and Install
   - https://docs.docker.com/desktop/windows/install/
 
-#### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)Checkpoint(Docker on WSL)
+#### :exclamation:Checkpoint(Docker on WSL)
 - After installation of Docker, you must start Docker Desktop and confirm `Use the WSL2 based engine` is checked in the settings of the Docker.
 <image src="../image/dockersetting.jpg">
 
@@ -47,7 +47,7 @@ For information on key differences with WSL2 please visit https:..aka.ms/wsl2
 - You can install Windows Terminal through Microsoft Store
   - https://aka.ms/terminal
 
-#### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)Checkpoint(Docker version)
+#### :exclamation:Checkpoint(Docker version)
 - Start Windows Terminal (or powershell), and execute the following command.
 - Please confirm the Docker version (maybe version 20 or over).
 ```sh
@@ -83,7 +83,7 @@ Pulling noeticvnc ... done
 PS C:\Users\????\noeticvnc>
 ```
 
-#### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)Checkpoint(ROS image)
+#### :exclamation:Checkpoint(ROS image)
 - Please confirm the ROS container image was downloaded in the windows terminal (or powershell).
 
 ```sh
@@ -113,7 +113,7 @@ noeticvnc    | 2021-06-09 18:22:16,556 INFO success: novnc entered RUNNING state
 ```
 - If you want to stop the container, press Ctrl+C.
 
-#### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)Checkpoint(Access to the ROS container on browser)
+#### :exclamation:Checkpoint(Access to the ROS container on browser)
 - During running the ROS container, Access `http://localhost:8000/`.
 - You can see ubuntu Desktop on the browser.
 
@@ -130,7 +130,7 @@ noeticvnc    | 2021-06-09 18:22:16,556 INFO success: novnc entered RUNNING state
 
 <image src="../image/realvnc.jpg">
 
-#### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)Checkpoint(Access to the ROS container on VNC Viewer)
+#### :exclamation:Checkpoint(Access to the ROS container on VNC Viewer)
 - You can see ubuntu Desktop in the window of the VNC Viewer.
 
 <image src="../image/ubuntu_vnc.jpg">
@@ -147,7 +147,8 @@ noeticvnc    | 2021-06-09 18:22:16,556 INFO success: novnc entered RUNNING state
 ### Direct access directory and files inside the ROS container 
 - Some directories in the container can be accessed directly from Windows without using the VNC client.
 - For example, you can copy image files, etc. from windows into the ROS container in the following way.
-  - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)Note: It is strongly recommended that you access program files such as python only from within the container or from the remote container plugin of vscode. This may cause problems with permissions and other issues.
+> **Note**
+> It is strongly recommended that you access program files such as python only from within the container or from the remote container plugin of vscode. This may cause problems with permissions and other issues.
 
 #### How to access files and directories in the ROS container
 - Access `\\wsl$\docker-desktop-data\version-pack-data\community\docker\volumes` on the windows explorer as follows.
