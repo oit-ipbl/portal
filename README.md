@@ -19,17 +19,17 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 
 ### Voting for [Team exercise2(Cross-cultural communication and creating youtube video)](https://github.com/oit-ipbl/Integration/blob/main/team_exercise/team_exercise.md#exercise2-cross-cultural-communication-and-creating-youtube-video)
 - We release youtube videos for each team on oVice between August ??-??.
-Please watch the videos of the other teams with team members, and vote until August 27, through team discussion for the top three videos that make you want to try the food introduced (i.e. Each team has three voting points) .
+Please watch the videos of the other teams with team members, and vote until August ?, through team discussion for the top three videos that make you want to try the food introduced (i.e. Each team has three voting points) .
 
 
 #### Deadline list for pre-learning
  All students are required to complete each exercise before each deadline.
 |Exercises |Deadline|
 |-|-|
-|Set-up development environments | 7/6|
-|Pre-Learning (Robots )|7/31|
-|Pre-Learning (Image Processing)|7/31|
-|Pre-Learning (Integration of Robots and Image Processing)| 8/20|
+|Set-up development environments | ?/?|
+|Pre-Learning (Robots )|?/??|
+|Pre-Learning (Image Processing)|?/??|
+|Pre-Learning (Integration of Robots and Image Processing)| ?/??|
 |Final Submissions (Each team should submit [the 5 materials](https://github.com/oit-ipbl/final_competition#submissions))| 9/3 22:00 (Thai), 24:00 (Jp)|
 ---
 ## Final Competition (Main iPBL week) Schedule
