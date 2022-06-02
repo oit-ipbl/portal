@@ -17,13 +17,13 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 ### Setup and Pre-learning
 *  6/30 to  8/20
 
-### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Voting for [Team exercise2(Cross-cultural communication and creating youtube video)](https://github.com/oit-ipbl/Integration/blob/main/team_exercise/team_exercise.md#exercise2-cross-cultural-communication-and-creating-youtube-video)
+### Voting for [Team exercise2(Cross-cultural communication and creating youtube video)](https://github.com/oit-ipbl/Integration/blob/main/team_exercise/team_exercise.md#exercise2-cross-cultural-communication-and-creating-youtube-video)
 - We release youtube videos for each team on oVice between August 23-27.
 Please watch the videos of the other teams with team members, and vote until August 27, through team discussion for the top three videos that make you want to try the food introduced (i.e. Each team has three voting points) .
 
 
 #### Deadline list for pre-learning
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) All students are required to complete each exercise before each deadline.
+ All students are required to complete each exercise before each deadline.
 |Exercises |Deadline|
 |-|-|
 |Set-up development environments | 7/6|
@@ -70,7 +70,7 @@ This is the time when the staff is available on oVice staff space.
 ## Education Materials
 We will notify when the materials are published on Slack.
 ### Set-up development environments
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) All students are required to complete exercises  for understanding setup until 7/6.
+All students are required to complete exercises  for understanding setup until 7/6.
 
 - [Communication Tools](https://github.com/oit-ipbl/portal/blob/main/setup/commtools.md)
   - How to use Slack, oVice and miro in this iPBL.
@@ -81,17 +81,17 @@ We will notify when the materials are published on Slack.
    - How to install both Python and VSCode constitute of our image processing environment.
 
 ### Pre-Learning
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) All students are required to complete exercises  for understanding robots and image processing  until 7/31.
+All students are required to complete exercises  for understanding robots and image processing  until 7/31.
 - [Robots](https://github.com/oit-ipbl/robots)
   - How to control the robots by ROS
 - [Image Processing](https://github.com/oit-ipbl/image_processing)
   - How to use python and opencv for image processing
 
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) All students are required to complete exercises  for understanding how to Integration (robots and image processing) until 8/20.
+All students are required to complete exercises  for understanding how to Integration (robots and image processing) until 8/20.
 - [Integration](https://github.com/oit-ipbl/Integration)
   - How to integrate robot control and image processing
 - ---
 ## Final Competition
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Each team should submit the following 5 materials by	9/3 22:00 (Thai), 24:00 (Jp)
+Each team should submit the following 5 materials by	9/3 22:00 (Thai), 24:00 (Jp)
 - [About final competition ](https://github.com/oit-ipbl/final_competition) 
   - Detailed information about rules, submissions, and evaluation criteria.
