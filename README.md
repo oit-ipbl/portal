@@ -11,8 +11,8 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 ---
 ## Pre-learning Schedule 
 
-### Kickoff meeting 
-* 6/30 : Introduction of the international PBL
+### OIT and SIIT Kickoff meeting 
+* 7/20 : Introduction of the international PBL
 
 ### Setup and Pre-learning
 *  6/30 to  8/20
