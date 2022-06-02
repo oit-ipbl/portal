@@ -15,7 +15,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 * 7/20 : Introduction of the international PBL
 
 ### Setup and Pre-learning
-*  6/30 to  8/20
+*  7/20 to  8/26
 
 ### Voting for [Team exercise2(Cross-cultural communication and creating youtube video)](https://github.com/oit-ipbl/Integration/blob/main/team_exercise/team_exercise.md#exercise2-cross-cultural-communication-and-creating-youtube-video)
 - We release youtube videos for each team on oVice between August 23-27.
