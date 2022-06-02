@@ -18,7 +18,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 *  7/20 to  8/26
 
 ### Voting for [Team exercise2(Cross-cultural communication and creating youtube video)](https://github.com/oit-ipbl/Integration/blob/main/team_exercise/team_exercise.md#exercise2-cross-cultural-communication-and-creating-youtube-video)
-- We release youtube videos for each team on oVice between August 23-27.
+- We release youtube videos for each team on oVice between August ??-??.
 Please watch the videos of the other teams with team members, and vote until August 27, through team discussion for the top three videos that make you want to try the food introduced (i.e. Each team has three voting points) .
 
 
@@ -33,12 +33,12 @@ Please watch the videos of the other teams with team members, and vote until Aug
 |Final Submissions (Each team should submit [the 5 materials](https://github.com/oit-ipbl/final_competition#submissions))| 9/3 22:00 (Thai), 24:00 (Jp)|
 ---
 ## Final Competition (Main iPBL week) Schedule
-  * 8/23 : Final Competition Rules will appear here at 8/23. 
+  * 9/4 : Final Competition Rules will appear here at 8/23. 
     * You can start to prepare for final competition
-  * 8/28 : Opening ceremony
+  * 8/27 : Opening ceremony
   * 9/4  : Final Results Presentation and Closing Ceremony:
 
-### Opening ceremony (8/28)
+### Opening ceremony (8/27)
 
 |Event|TST|JST|
 |-|-|-|
