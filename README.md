@@ -30,9 +30,9 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 |<ul><li>Results of voting for Cross-cultural communication and creating YouTube video (Team Exercise 2) (30 min.)</li><ul><li>Chair: Lin (Alumnus of SIIT)</li></ul></ul>|  10:00  (TST) | 12:00  (JST) 
 
 ## Setup and Pre-learning(7/20~8/17)
-All students are required to complete setup for robot and image processing development environment as soon as possible.
 
 #### Environment Setup
+All students are required to complete setup for robot and image processing development environment as soon as possible.
 
 - [Robot Development Environment for iPBL](https://github.com/oit-ipbl/portal/blob/main/setup/dockerros.md)
   - How to install Docker Desktop and ROS-melodic containers constitute of our robot development environment.
