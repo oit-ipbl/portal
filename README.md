@@ -9,47 +9,36 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 ## Location
  - OIT Hirakata Virtual Campus at oVice 
 ---
-## Pre-learning Schedule 
+## PBL Schedule 
 
-### OIT and SIIT Kickoff meeting 
-* 7/20 : Introduction of the international PBL
-
-### Setup and Pre-learning
-*  7/20 to  8/26
-
-### Voting for [Team exercise2(Cross-cultural communication and creating youtube video)](https://github.com/oit-ipbl/Integration/blob/main/team_exercise/team_exercise.md#exercise2-cross-cultural-communication-and-creating-youtube-video)
-- We release youtube videos for each team on oVice between August ??-??.
-Please watch the videos of the other teams with team members, and vote until August ?, through team discussion for the top three videos that make you want to try the food introduced (i.e. Each team has three voting points) .
-
-
-#### Deadline list for pre-learning
- All students are required to complete each exercise before each deadline.
 |Exercises |Deadline|
 |-|-|
-|Set-up development environments | ?/?|
-|Pre-Learning (Robots )|?/??|
-|Pre-Learning (Image Processing)|?/??|
-|Pre-Learning (Integration of Robots and Image Processing)| ?/??|
-|Final Submissions (Each team should submit [the 5 materials](https://github.com/oit-ipbl/final_competition#submissions))| 9/3 22:00 (Thai), 24:00 (Jp)|
----
-## Final Competition (Main iPBL week) Schedule
-  * 9/4 : Final Competition Rules will appear here at 8/23. 
-    * You can start to prepare for final competition
-  * 8/27 : Opening ceremony
-  * 9/4  : Final Results Presentation and Closing Ceremony:
+|OIT and SIIT Kickoff| 7/20|
+|Setup and Pre-Learning|7/20~8/17|
+|Team Exercise1(Creating youtube video)|8/4~8/17|
+|Team Exercise2(Development a game for the final competition)| 8/18~9/3|
+|Final Competition| 9/4|
 
-### Opening ceremony (8/27)
+
+### OIT and SIIT Kickoff meeting(7/20) 
+* 7/20 : Introduction of the international PBL
 
 |Event|TST|JST|
 |-|-|-|
 |<ul><li>Director’s speech (20 min.)</li><ul><li>Katsutoshi Tsukamoto (OIT)</li><li>Pruettha Nanakorn (SIIT)</li></ul><li>Overview of Final Competition (20 min)</li><ul><li>Chair: Yuta Muraki (OIT)</li></ul><li>Schedule of main iPBL week (20 min)</li><ul><li>Chair: Kiyoshi Honda(OIT)</li></ul></ul>| 9:00  (TST) | 11:00  (JST)| 
 |<ul><li>Results of voting for Cross-cultural communication and creating YouTube video (Team Exercise 2) (30 min.)</li><ul><li>Chair: Lin (Alumnus of SIIT)</li></ul></ul>|  10:00  (TST) | 12:00  (JST) 
 
+### Setup and Pre-learning(7/20~8/17)
+*  7/20 to 8/17
 
-### Main Development Week (8/28~9/3)
-- You have to develop the ROS+ImP program as a team from 8/28 to 9/3 for the final competition.
-- The rules for the final competition will be released on 8/23. Please refer to the results of Team Exercise1 of each team and try to develop a better program.
-- Our staff will be at the space from 8/30 to 9/3 at the times listed below. If you have any questions, please feel free to ask them on Slack or directly to the staff.
+### Team Exercise1(8/3~8/17)
+* OIT，SIITの学生が協力して一つのvideoを作成してyoutubeに公開します．このExerciseを通じてお互いの国についての理解を深めていきましょう．
+* Detail of the exercise is shown here at 8/3
+
+### Team Exercise2(Development a game for the final competition)(8/18~9/3)
+- You have to develop the ROS+ImP program as a team from 8/18 to 9/3 for the final competition.
+- The rules for the final competition will be released on 8/17. 
+- Our staff will be at the space from 8/27 to 9/3 at the times listed below. If you have any questions, please feel free to ask them on Slack or directly to the staff.
 
 #### Staff Time
 This is the time when the staff is available on oVice staff space.
@@ -60,12 +49,13 @@ This is the time when the staff is available on oVice staff space.
 | 12:00  to 14:00  | 14:00  to 16:00 |  
 | 16:00  to 18:00  | 18:00  to 20:00 |  
 
-### Closing ceremony(9/4)  
+### Final Competition(9/4)  
 |Event|TST|JST|
 |-|-|-|
 |Final Competition Part A(including lunch) |9:00|11:00 |
 |Final Competition Part B |12:30   | 14:30   |
 |Award Ceremony and Closing  |14:00 | 16:00  |
+
 ---
 ## Education Materials
 We will notify when the materials are published on Slack.
@@ -81,17 +71,12 @@ All students are required to complete exercises  for understanding setup until 7
    - How to install both Python and VSCode constitute of our image processing environment.
 
 ### Pre-Learning
-All students are required to complete exercises  for understanding robots and image processing  until 7/31.
+All students are required to complete **Pre-learning Assignments** for understanding robots and image processing.
 - [Robots](https://github.com/oit-ipbl/robots)
   - How to control the robots by ROS
 - [Image Processing](https://github.com/oit-ipbl/image_processing)
   - How to use python and opencv for image processing
 
-All students are required to complete exercises  for understanding how to Integration (robots and image processing) until 8/20.
+All students are required to complete **Pre-learning Assignments** for understanding how to Integration (robots and image processing) until 8/3.
 - [Integration](https://github.com/oit-ipbl/Integration)
   - How to integrate robot control and image processing
-- ---
-## Final Competition
-Each team should submit the following 5 materials by	9/3 22:00 (Thai), 24:00 (Jp)
-- [About final competition ](https://github.com/oit-ipbl/final_competition) 
-  - Detailed information about rules, submissions, and evaluation criteria.
