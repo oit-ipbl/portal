@@ -11,16 +11,17 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 ---
 ## PBL Schedule 
 
-|Exercises |Deadline|
+|Exercises |Date|
 |-|-|
-|OIT and SIIT Kickoff| 7/20|
+|OIT and SIIT Kickoff at oVice| 7/20|
 |Setup and Pre-Learning|7/20~8/17|
 |Team Exercise1(Creating youtube video)|8/4~8/17|
 |Team Exercise2(Development a game for the final competition)| 8/18~9/3|
-|Final Competition| 9/4|
+|Opening Ceremony at oVice|8/27|
+|Final Competition at oVice| 9/4|
 
 
-### OIT and SIIT Kickoff meeting(7/20) 
+### OIT and SIIT Kickoff meeting(7/20) at oVice
 * 7/20 : Introduction of the international PBL
 
 |Event|TST|JST|
@@ -49,7 +50,15 @@ This is the time when the staff is available on oVice staff space.
 | 12:00  to 14:00  | 14:00  to 16:00 |  
 | 16:00  to 18:00  | 18:00  to 20:00 |  
 
-### Final Competition(9/4)  
+### Opening Ceremony(8/27) at oVice
+
+|Event|TST|JST|
+|-|-|-|
+|<ul><li>Director’s speech (20 min.)</li><ul><li>Katsutoshi Tsukamoto (OIT)</li><li>Pruettha Nanakorn (SIIT)</li></ul><li>Overview of Final Competition (20 min)</li><ul><li>Chair: Yuta Muraki (OIT)</li></ul><li>Schedule of main iPBL week (20 min)</li><ul><li>Chair: Kiyoshi Honda(OIT)</li></ul></ul>| 9:00  (TST) | 11:00  (JST)| 
+|<ul><li>Results of voting for Cross-cultural communication and creating YouTube video (Team Exercise 2) (30 min.)</li><ul><li>Chair: Lin (Alumnus of SIIT)</li></ul></ul>|  10:00  (TST) | 12:00  (JST) 
+
+
+### Final Competition(9/4) at oVice 
 |Event|TST|JST|
 |-|-|-|
 |Final Competition Part A(including lunch) |9:00|11:00 |
