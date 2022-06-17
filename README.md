@@ -43,7 +43,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 
 #### Staff Time
 This is the time when the staff is available on oVice staff space.
-- 8/30 to 9/3 
+- 8/29 to 9/3 
 
 |TST|JST|
 |-|-|
