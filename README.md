@@ -25,7 +25,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 * 7/20 : Introduction of the international PBL
 #### 12:30(TST)	14:30(JST)
 - Introduction (Dr. Sugikawa)
-  - University guide
+  - University
     - Osaka Institute of Technology (Dr. Miyawaki)
     - Sirindhorn International Institute of Technology (Dr. Waree Kongprawechnon)
   - Teachers and teaching assistants（all staffs）
