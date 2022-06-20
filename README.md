@@ -55,13 +55,14 @@ All students are required to complete **Pre-learning Assignments** for understan
 - [Integration](https://github.com/oit-ipbl/Integration)
   - How to integrate robot control and image processing
 
-## Team Exercise1(8/3~8/17)
+## Team Exercise1(8/4~8/17)
 * OIT，SIITの学生が協力して一つのvideoを作成してyoutubeに公開します．このExerciseを通じてお互いの国についての理解を深めていきましょう．
 * Detail of the exercise is shown here at 8/3
 
 ## Team Exercise2(Development a game for the final competition)(8/18~9/3)
 - You have to develop the ROS+ImP program as a team from 8/18 to 9/3 for the final competition.
 - The rules for the final competition will be released on 8/17. 
+- 8/27には中間発表として，開発中のゲームを紹介するポスターを作成し，公開していただきます
 - Our staff will be at the space from 8/27 to 9/3 at the times listed below. If you have any questions, please feel free to ask them on Slack or directly to the staff.
 
 #### Staff Time
