@@ -24,10 +24,25 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 ## OIT and SIIT Kickoff meeting(7/20) at oVice
 * 7/20 : Introduction of the international PBL
 
-|Event|TST|JST|
-|-|-|-|
-|<ul><li>Director’s speech (20 min.)</li><ul><li>Katsutoshi Tsukamoto (OIT)</li><li>Pruettha Nanakorn (SIIT)</li></ul><li>Overview of Final Competition (20 min)</li><ul><li>Chair: Yuta Muraki (OIT)</li></ul><li>Schedule of main iPBL week (20 min)</li><ul><li>Chair: Kiyoshi Honda(OIT)</li></ul></ul>| 9:00  (TST) | 11:00  (JST)| 
-|<ul><li>Results of voting for Cross-cultural communication and creating YouTube video (Team Exercise 2) (30 min.)</li><ul><li>Chair: Lin (Alumnus of SIIT)</li></ul></ul>|  10:00  (TST) | 12:00  (JST) 
+- Introduction (Dr. Sugikawa)​
+
+ - Teachers and teaching assistants（all staffs）​
+
+ - Team members ​
+
+ - Published via Slack​
+
+- Communication Tools. Slack, miro and GitHub（Dr. Igaki）​
+
+ - https://github.com/oit-ipbl/portal/blob/main/setup/commtools.md​
+
+- Schedule and Progress Report (Dr. Chizaki)​
+
+Ice break (Dr. Kamakura)​
+
+ - Self introduction​
+ - Team name​
+- Free discussion.
 
 ## Setup and Pre-learning(7/20~8/17)
 
