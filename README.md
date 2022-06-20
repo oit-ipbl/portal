@@ -33,7 +33,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
   - Published via Slack
 - Communication Tools. Slack, miro and GitHub（Dr. Igaki）
   - https://github.com/oit-ipbl/portal/blob/main/setup/commtools.md
-- Schedule and Progress Report (Dr. Chizaki)
+- Schedule and Progress Report
 Ice break (Dr. Kamakura)
   - Self introduction
   - Team name
