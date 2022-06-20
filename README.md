@@ -25,13 +25,9 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 * 7/20 : Introduction of the international PBL
 
 - Introduction (Dr. Sugikawa)​
-
- - Teachers and teaching assistants（all staffs）​
-
- - Team members ​
-
- - Published via Slack​
-
+  - Teachers and teaching assistants（all staffs）​
+  - Team members ​
+  - Published via Slack​
 - Communication Tools. Slack, miro and GitHub（Dr. Igaki）​
 
  - https://github.com/oit-ipbl/portal/blob/main/setup/commtools.md​
