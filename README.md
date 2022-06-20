@@ -56,7 +56,7 @@ All students are required to complete **Pre-learning Assignments** for understan
   - How to integrate robot control and image processing
 
 ## Team Exercise1(8/4~8/17)
-* OIT，SIITの学生が協力して一つのvideoを作成してyoutubeに公開します．このExerciseを通じてお互いの国についての理解を深めていきましょう．
+* In this team exercise1, students from OIT and SIIT will collaborate to create a video and share it on youtube. Let's deepen your understanding of each other's country through this exercise.
 * Detail of the exercise is shown here at 8/3
 
 ## Team Exercise2(Development a game for the final competition)(8/18~9/3)
