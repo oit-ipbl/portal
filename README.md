@@ -24,16 +24,16 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 ## OIT and SIIT Kickoff meeting(7/20) at oVice
 * 7/20 : Introduction of the international PBL
 
-- Introduction (Dr. Sugikawa)​
-  - Teachers and teaching assistants（all staffs）​
-  - Team members ​
-  - Published via Slack​
-- Communication Tools. Slack, miro and GitHub（Dr. Igaki）​
+- Introduction (Dr. Sugikawa)
+  - Teachers and teaching assistants（all staffs）
+  - Team members 
+  - Published via Slack
+- Communication Tools. Slack, miro and GitHub（Dr. Igaki）
   - https://github.com/oit-ipbl/portal/blob/main/setup/commtools.md
-- Schedule and Progress Report (Dr. Chizaki)​
-Ice break (Dr. Kamakura)​
-  - Self introduction​
-  - Team name​
+- Schedule and Progress Report (Dr. Chizaki)
+Ice break (Dr. Kamakura)
+  - Self introduction
+  - Team name
   - Free discussion.
 
 ## Setup and Pre-learning(7/20~8/17)
