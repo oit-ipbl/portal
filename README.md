@@ -41,7 +41,7 @@ Ice break (Dr. Kamakura)
 
 ## Setup and Pre-learning(7/20~8/17)
 
-#### Environment Setup
+### Environment Setup
 All students are required to complete setup for robot and image processing development environment as soon as possible.
 
 - [Robot Development Environment for iPBL](https://github.com/oit-ipbl/portal/blob/main/setup/dockerros.md)
@@ -54,7 +54,7 @@ All students are required to complete setup for robot and image processing devel
   - How to use Slack, oVice and miro in this iPBL.
 
 
-#### Pre-Learning Assignments
+### Pre-Learning Assignments
 All students are required to complete **Pre-learning Assignments** for understanding robots and image processing.
 - [Robots](https://github.com/oit-ipbl/robots)
   - How to control the robots by ROS
@@ -64,6 +64,23 @@ All students are required to complete **Pre-learning Assignments** for understan
 All students are required to complete **Pre-learning Assignments** for understanding how to Integration (robots and image processing) until 8/3.
 - [Integration](https://github.com/oit-ipbl/Integration)
   - How to integrate robot control and image processing
+
+### Staff Time
+- This is the time when the staff is available on oVice staff space.
+- :o: Be sure to come to oVice until Pre-learning Assignments are completed!
+
+#### Every Wednesday from 6/29 to 7/13 for OIT students
+
+|JST|
+|-|
+| 13:30  to 17:00 |  
+
+#### Every Wednesday from 7/20 to 8/3 for OIT and SIIT students
+
+|TST|JST|
+|-|-|
+| 12:30  to 15:00  | 14:30  to 17:00 |  
+
 
 ## Team Exercise1(8/4~8/17)
 * In this team exercise1, students from OIT and SIIT will collaborate to create a video and share it on youtube. Let's deepen your understanding of each other's country through this exercise.
