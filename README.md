@@ -116,6 +116,9 @@ This is the time when the staff is available on oVice staff space.
 
 
 ## Opening Ceremony(8/27) at oVice
+|Event|TST|JST|
+|-|-|-|
+||9:00~10:00|11:00~12:00|
 <!-- 
 |Event|TST|JST|
 |-|-|-|
@@ -125,6 +128,9 @@ This is the time when the staff is available on oVice staff space.
 
 
 ## Final Competition(9/4) at oVice 
+|Event|TST|JST|
+|-|-|-|
+||9:00~15:00|11:00~17:00|
 <!-- 
 |Event|TST|JST|
 |-|-|-|
