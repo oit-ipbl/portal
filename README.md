@@ -80,7 +80,7 @@ All students are required to complete **Pre-learning Assignments** for understan
 
 |TST|JST|
 |-|-|
-| 12:30  to 15:00  | 14:30  to 17:00 |  
+| 11:30  to 15:00  | 13:30  to 17:00 |  
 
 ## OIT Laboratory Demonstrations(7/27)
 
@@ -94,15 +94,20 @@ All students are required to complete **Pre-learning Assignments** for understan
 * In this team exercise1, students from OIT and SIIT will collaborate to create a video and share it on youtube. Let's deepen your understanding of each other's country through this exercise.
 * Detail of the exercise is shown here at 8/3
 
+#### Staff Time(Every Wednesday from 8/10 to 8/24 for OIT and SIIT students)
+
+|TST|JST|
+|-|-|
+| 13:20  to 16:50  | 15:20  to 18:50 |  
+
 ## Team Exercise2(Development a game for the final competition)(8/18~9/3)
 - You have to develop the ROS+ImP program as a team from 8/18 to 9/3 for the final competition.
 - The rules for the final competition will be released on 8/17. 
 - Please submit a poster introducing the game under development by 8/26 as an interim report. It will be exhibited at the Opening Ceremony (8/27).
-- Our staff will be at the space from 8/27 to 9/3 at the times listed below. If you have any questions, please feel free to ask them on Slack or directly to the staff.
+- Our staff will be at the space from 8/29 to 9/3 at the times listed below. If you have any questions, please feel free to ask them on Slack or directly to the staff at ovice.
 
-#### Staff Time
+#### Staff Time (8/29(Mon) to 9/3(Sat)) 
 This is the time when the staff is available on oVice staff space.
-- 8/29 to 9/3 
 
 |TST|JST|
 |-|-|
