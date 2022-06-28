@@ -87,7 +87,7 @@ All students are required to complete **Pre-learning Assignments** for understan
 
 ### 12:30(TST) 14:30(JST)
 
-* OIT Laboratry will demonstrates REAL ROBOTS with explanations which is useful to learn and understand robotics programming on this iPBL.
+* OIT Laboratory will demonstrates REAL ROBOTS with explanations which is useful to learn and understand robotics programming on this iPBL.
 * You can participate this event via oVice freely. All are welcome!
 * OIT students can see the demo face-to-face at 1号館4階144多目的室（共同研究実験ルーム）.
 
