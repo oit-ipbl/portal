@@ -15,6 +15,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 |-|-|
 |OIT and SIIT Kickoff at oVice| 7/20|
 |Setup and Pre-Learning|7/20~8/17|
+|OIT Laboratory Demonstrations| 7/27|
 |Team Exercise1(Creating youtube video)|8/4~8/17|
 |Team Exercise2(Development a game for the final competition)| 8/18~9/3|
 |Opening Ceremony at oVice|8/27|
@@ -81,6 +82,13 @@ All students are required to complete **Pre-learning Assignments** for understan
 |-|-|
 | 12:30  to 15:00  | 14:30  to 17:00 |  
 
+## OIT Laboratory Demonstrations(7/27)
+
+### 12:30(TST) 14:30(JST)
+
+* OIT Laboratry will demonstrates REAL ROBOTS with explanations which is useful to learn and understand robotics programming on this iPBL.
+* You can participate this event via oVice freely. All are welcome!
+* OIT students can see the demo face-to-face at 1号館4階144多目的室（共同研究実験ルーム）.
 
 ## Team Exercise1(8/4~8/17)
 * In this team exercise1, students from OIT and SIIT will collaborate to create a video and share it on youtube. Let's deepen your understanding of each other's country through this exercise.
