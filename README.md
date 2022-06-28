@@ -34,8 +34,8 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
   - Published via Slack
 - Communication Tools. Slack, miro and GitHub（Dr. Igaki）
   - https://github.com/oit-ipbl/portal/blob/main/setup/commtools.md
-- Schedule and Progress Report
-Ice break (Dr. Kamakura)
+- Schedule 
+- Ice break (Dr. Kamakura)
   - Self introduction
   - Team name
   - Free discussion.
@@ -114,18 +114,21 @@ This is the time when the staff is available on oVice staff space.
 | 12:00  to 14:00  | 14:00  to 16:00 |  
 | 16:00  to 18:00  | 18:00  to 20:00 |  
 
-## Opening Ceremony(8/27) at oVice
 
+## Opening Ceremony(8/27) at oVice
+<!-- 
 |Event|TST|JST|
 |-|-|-|
 |<ul><li>Director’s speech (20 min.)</li><ul><li>Katsutoshi Tsukamoto (OIT)</li><li>Pruettha Nanakorn (SIIT)</li></ul><li>Overview of Final Competition (20 min)</li><ul><li>Chair: Yuta Muraki (OIT)</li></ul><li>Schedule of main iPBL week (20 min)</li><ul><li>Chair: Kiyoshi Honda(OIT)</li></ul></ul>| 9:00  (TST) | 11:00  (JST)| 
 |<ul><li>Results of voting for Cross-cultural communication and creating YouTube video (Team Exercise 2) (30 min.)</li><ul><li>Chair: Lin (Alumnus of SIIT)</li></ul></ul>|  10:00  (TST) | 12:00  (JST) 
+-->
 
 
 ## Final Competition(9/4) at oVice 
+<!-- 
 |Event|TST|JST|
 |-|-|-|
 |Final Competition Part A(including lunch) |9:00|11:00 |
 |Final Competition Part B |12:30   | 14:30   |
 |Award Ceremony and Closing  |14:00 | 16:00  |
-
+-->
