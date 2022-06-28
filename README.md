@@ -104,7 +104,7 @@ All students are required to complete **Pre-learning Assignments** for understan
 - The details of Team Exercise2 will be released on 8/17.
 - You have to develop the ROS+ImP program as a team from 8/18 to 9/3 for the final competition.
 - Please submit a poster introducing the game under development by 8/26 as an interim report. It will be exhibited at the Opening Ceremony (8/27).
-- Please submit the followings by 9/3 as a final report. You have to present and demonstrate the game on the team booth.
+- Please submit the followings by 9/3 as a final report. You have to present and demonstrate the game on the team booth at the Final Competition(9/4).
   - youtube link (demo video)
   - game program
   - manual for the game
