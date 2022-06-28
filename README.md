@@ -25,7 +25,8 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 ## OIT and SIIT Kickoff meeting(7/20) at oVice
 * 7/20 : Introduction of the international PBL
 #### 12:30(TST)	14:30(JST)
-- Introduction (Dr. Sugikawa)
+(Chair:Dr. Sugikawa)
+- Introduction 
   - University
     - Osaka Institute of Technology (Dr. Miyawaki)
     - Sirindhorn International Institute of Technology (Dr. Waree Kongprawechnon)
