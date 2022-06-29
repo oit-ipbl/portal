@@ -154,6 +154,8 @@ noeticvnc    | 2021-06-09 18:22:16,556 INFO success: novnc entered RUNNING state
 
 #### How to access files and directories in the ROS container
 - Access `\\wsl$\docker-desktop-data\version-pack-data\community\docker\volumes` on the windows explorer as follows.
+  - If you could not found the above directory, please try `\\wsl$\docker-desktop-data\data\docker\volumes`
+  - If you can't find both of them, go to `\\wsl$\docker-desktop-data` and search the ``volumes`` folder
 - You can see two directiries `noeticvnc_catkin_ws` and `noeticvnc_ubuntu` in the `volumes` directory.
 - These directoryies correspond to `/catkin_ws` and `/home/ubuntu/` directories in the ROS container, respectively.
 
