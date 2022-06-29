@@ -37,7 +37,7 @@
 ### procedure
 - Download our installer file by clicking the following url.
   - https://oskit-my.sharepoint.com/:u:/g/personal/takao_jinno_oit_ac_jp/ETjlZJd8kyVMneqBBgjIZF4Bvif1w_ETaELJDmA7arJ6Ow?e=t02zsa
-    - **PW is written on Slack.** [link to a Slack](https://ipbl2022.slack.com/archives/C03KMU22PCM/p1656481655111249)
+    - **PW is written on Slack( #general channel).**
     - If you have installed some antivirus software, this executable file and other batch files may not work properly.
 - Execute "py22_ipbl_installer2022xxxx.exe" file.
   - This installer is safe.
