@@ -20,7 +20,7 @@
 
 ## Minutz
 - Minutz is a automatic translation service. You can communicate with foreign collegues freely through Minutz in your native language. 
-- We make minutz room urls for every team. Please check the iPBL url list (See Slack).
+- We've prepared Minutz room url for every team. Please check the iPBL url list (See Slack).
 
 # Recommended tools
 - Here are some recommended tools. If you have any other recommendation for communication, please let us know on slack.
