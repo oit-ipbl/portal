@@ -4,7 +4,7 @@
 
 ## Slack
 - Slack is messaging application.In iPBL, we use slack for comunication among students and staffs.
-- iPBL attendees will be invited to ipbl2022.slack.com. Please check your e-mail and attend to the workspace until kick-off meeting of iPBL2021.
+- iPBL attendees will be invited to ipbl2022.slack.com. Please check your e-mail and attend to the workspace until kick-off meeting of iPBL2022.
 - Japanese and english start guides are as follows.
   - [Quick Start Guide(Japanese)](https://slack.com/intl/ja-jp/help/articles/360059928654-Slack-%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9---%E3%82%AF%E3%82%A4%E3%83%83%E3%82%AF%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%AC%E3%82%A4%E3%83%89)
   - [Quick Start Guide(English)](https://slack.com/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide)
@@ -17,6 +17,10 @@
 
 ## miro
 - [miro](https://miro.com/) is an online white board service which is essential to facilitate remote team development. In this iPBL, we offer one white board a team which url is provided at iPBL url list(See Slack).
+
+## Minutz
+- Minutz is a automatic translation service. You can communicate with foreign collegues freely through Minutz in your native language. 
+- We make minutz room urls for every team. Please check the iPBL url list (See Slack).
 
 # Recommended tools
 - Here are some recommended tools. If you have any other recommendation for communication, please let us know on slack.
