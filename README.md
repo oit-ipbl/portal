@@ -93,7 +93,10 @@ All students are required to complete **Pre-learning Assignments** for understan
 
 ## Team Exercise1(8/4~8/17)
 * In this team exercise1, students from OIT and SIIT will collaborate to create a video and share it on youtube. Let's deepen your understanding of each other's country through this exercise.
-* Detail of the exercise is shown here at 8/3
+* Let's create a video to cook and introduce the foods in each other's country and publish it on youtube.
+  *  :o: **OIT** students should cook and introduce **Thai food** and :o: **SIIT** students should cook and introduce **Japanese food**.
+* Read more about this exercise1 is here
+  * https://github.com/oit-ipbl/Integration/blob/main/team_exercise/team_exercise1.md
 
 #### Staff Time(Every Wednesday from 8/10 to 8/24 for OIT and SIIT students)
 
