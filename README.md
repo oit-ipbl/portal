@@ -105,8 +105,10 @@ All students are required to complete **Pre-learning Assignments** for understan
 | 13:20  to 16:50  | 15:20  to 18:50 |  
 
 ## Team Exercise2(Development a game for the final competition)(8/18~9/3)
+
 - The details of Team Exercise2 is [here](https://github.com/oit-ipbl/Integration/blob/main/team_exercise/team_exercise2.md).
 - You have to develop the ROS+ImP program as a team from 8/18 to 9/3 for the final competition.
+  - Final competition rule is [here](https://github.com/oit-ipbl/final_competition)
 - Please submit a poster introducing the game under development by 8/26 as an interim report. It will be exhibited at the Opening Ceremony (8/27).
 - Please submit the followings by 9/3 as a final report. You have to present and demonstrate the game on the team booth at the Final Competition(9/4).
   - youtube link (demo video)
@@ -124,7 +126,6 @@ This is the time when the staff is available on oVice staff space.
 | 12:00  to 14:00  | 14:00  to 16:00 |  
 | 16:00  to 18:00  | 18:00  to 20:00 |  
 
-
 ## Opening Ceremony(8/27) at oVice
 |Event|TST|JST|
 |-|-|-|
@@ -136,15 +137,10 @@ This is the time when the staff is available on oVice staff space.
 |<ul><li>Results of voting for Cross-cultural communication and creating YouTube video (Team Exercise 2) (30 min.)</li><ul><li>Chair: Lin (Alumnus of SIIT)</li></ul></ul>|  10:00  (TST) | 12:00  (JST) 
 -->
 
+## Final Competition(9/4) at oVice
 
-## Final Competition(9/4) at oVice 
 |Event|TST|JST|
 |-|-|-|
-||9:00~15:00|11:00~17:00|
-<!-- 
-|Event|TST|JST|
-|-|-|-|
-|Final Competition Part A(including lunch) |9:00|11:00 |
-|Final Competition Part B |12:30   | 14:30   |
-|Award Ceremony and Closing  |14:00 | 16:00  |
--->
+|Final Competition Part A(including lunch) | 9:00|11:00|
+|Final Competition Part B                  |12:00|14:00|
+|Scoreing, Award Ceremony and Closing      |14:00 - 15:00|16:00 - 17:00|
