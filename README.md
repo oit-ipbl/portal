@@ -7,7 +7,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 - [Sirindhorn International Institute of Technology](https://www.siit.tu.ac.th/) (SIIT)
 ---
 ## Location
- - OIT Hirakata Virtual Campus at oVice 
+ - OIT Hirakata Virtual Campus
 ---
 # PBL Schedule 
 
@@ -17,31 +17,26 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 |Final Competition | 7/27|
 |Excursion to Osaka| 7/28|
 
-## OIT and SIIT Kickoff meeting(7/20) 
-* 7/20 : Introduction of the international PBL
-#### 12:30(TST)	14:30(JST)
+## Opening Ceremony
+* 7/24 : Introduction of the international PBL
+#### 11:00 to	12:40
 (Chair:Dr. Sugikawa)
 - Introduction 
-  - University
-    - Osaka Institute of Technology (Dr. Miyawaki)
-    - Sirindhorn International Institute of Technology (Dr. Waree Kongprawechnon)
-  - Teachers and teaching assistants（all staffs）
+    - Osaka Institute of Technology (Pro. Tsukamoto)
+    - Sirindhorn International Institute of Technology (Pro. ???????)
+  - Teachers and teaching assistants（Self introduction）
   - Team members 
-  - Published via Slack
-- Communication Tools. Slack, miro and GitHub（Dr. Igaki）
-  - https://github.com/oit-ipbl/portal/blob/main/setup/commtools.md
 - Schedule 
 - Ice break (Dr. Kamakura)
   - Self introduction
   - Team name
   - Free discussion.
 
-## Setup and Pre-learning(7/20~8/17)
+## Setup and Pre-learning(7/3~7/17)
 
 ### Environment Setup
-All students are required to complete setup for robot and image processing development environment as soon as possible.
 
-- [Robot Development Environment for iPBL](https://github.com/oit-ipbl/portal/blob/main/setup/dockerros.md)
+- [Python nvironment](https://github.com/oit-ipbl/portal/blob/main/setup/dockerros.md)
   - How to install Docker Desktop and ROS-melodic containers constitute of our robot development environment.
 
 - [Image Processing Environment for iPBL](https://github.com/oit-ipbl/portal/blob/main/setup/python%2Bvscode.md)
