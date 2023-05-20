@@ -17,7 +17,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 |Final Competition | 7/27|
 |Excursion to Osaka| 7/28|
 
-## OIT and SIIT Kickoff meeting(7/20) at oVice
+## OIT and SIIT Kickoff meeting(7/20) 
 * 7/20 : Introduction of the international PBL
 #### 12:30(TST)	14:30(JST)
 (Chair:Dr. Sugikawa)
