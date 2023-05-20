@@ -11,16 +11,11 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 ---
 # PBL Schedule 
 
-|Exercises |Date|
+|Event |Date|
 |-|-|
-|OIT and SIIT Kickoff at oVice| 7/20|
-|Setup and Pre-Learning|7/20~8/17|
-|OIT Laboratory Demonstrations| 7/27|
-|Team Exercise1(Creating youtube video)|8/4~8/17|
-|Team Exercise2(Development a game for the final competition)| 8/18~9/3|
-|Opening Ceremony at oVice|8/27|
-|Final Competition at oVice| 9/4|
-
+|Opening Ceremony |7/24|
+|Final Competition | 7/27|
+|Excursion to Osaka| 7/28|
 
 ## OIT and SIIT Kickoff meeting(7/20) at oVice
 * 7/20 : Introduction of the international PBL
