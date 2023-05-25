@@ -26,7 +26,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
   - Teachers and teaching assistants（Self introduction）
   - Team members 
 - Schedule 
-- Ice break (Dr. Kamakura)
+- Ice break
   - Self introduction
   - Team name
   - Free discussion
