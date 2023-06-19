@@ -50,7 +50,7 @@ All students are required to complete **Pre-learning Assignments** for understan
 
 
 
-#### IPBL Time (8/29(Mon) to 9/3(Sat)) 
+#### IPBL Time (7/24(Mon) to 7/27(Thu)) 
 
 |Time|
 |-|
