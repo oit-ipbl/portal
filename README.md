@@ -63,6 +63,5 @@ All students are required to complete **Pre-learning Assignments** for understan
 
 |Event|Time|
 |-|-|
-|Final Competition Part A(including lunch) |11:00|
-|Final Competition Part B                  |14:00|
-|Scoreing, Award Ceremony and Closing      |16:00 |
+|Final Competition Part B                  |13:30|
+|Scoreing, Award Ceremony and Closing      |15:20 |
