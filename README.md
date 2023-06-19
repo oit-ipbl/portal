@@ -59,7 +59,7 @@ All students are required to complete **Pre-learning Assignments** for understan
 
 
 
-## Final Competition(9/4) at oVice
+## Final Competition(7/27) at oVice
 
 |Event|Time|
 |-|-|
