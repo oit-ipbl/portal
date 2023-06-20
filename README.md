@@ -32,7 +32,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
   - Free discussion
 
 ## Environment Setup
-- [Python Environment](https://github.com/oit-ipbl/portal/blob/main/setup/dockerros.md)
+- [Python Environment](https://github.com/oit-ipbl/portal/blob/main/setup/)
   - How to install and library python used in pbl.
 
 ### Pre-Learning Assignments (OIT)
