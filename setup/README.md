@@ -12,7 +12,7 @@ You can also install it from the windows store.
 # VS code
 
 Invoke the command prompt from the Start menu and type the following command.
-#pip
+# pip
 ## Opencv
 ```bash
 python -m pip install open-python
