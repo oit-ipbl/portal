@@ -9,12 +9,15 @@ To install Python, you can also use the Windows Store.
 
 # VS Code
 Visual Studio Code (VS Code) is a source code editor developed by Microsoft for Windows, Linux, macOS and the web.
+
 ### Installing VS Code
 To install Visual Studio Code (VS Code), refer to the official website for downloads and installation instructions.
+
 [Visual Studio Code (VS Code) ](https://code.visualstudio.com/)
 
 ## Reference page
 For beginners, you can find a helpful guide on getting started with Python on Windows.
+
 [Get started using Python on Windows for beginners](https://learn.microsoft.com/en-us/windows/python/beginners)
 
 
