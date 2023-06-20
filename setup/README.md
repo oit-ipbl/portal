@@ -17,6 +17,7 @@ To install Visual Studio Code (VS Code), refer to the official website for downl
 
 ## Reference page
 For more detailed information, please visit the following page:
+
 [Get started using Python on Windows for beginners](https://learn.microsoft.com/en-us/windows/python/beginners)
 
 
