@@ -16,6 +16,7 @@ You can also install it from the windows store.
 
 
 # pip
+Pyhton can manage packages with pip.
 Invoke the command prompt from the Start menu and type the following command.
 The following two packages are used in this project.
 ## Opencv
