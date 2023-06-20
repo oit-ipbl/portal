@@ -9,6 +9,10 @@ You can also install it from the windows store.
 
 [Get started using Python on Windows for beginners](https://learn.microsoft.com/en-us/windows/python/beginners)
 
+# VS code
+
+Invoke the command prompt from the Start menu and type the following command.
+#pip
 ## Opencv
 ```bash
 python -m pip install open-python
@@ -17,4 +21,3 @@ python -m pip install open-python
 ```bash
 python -m pip install djitellopy
 ```
-# VS code
