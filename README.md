@@ -35,8 +35,8 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 
 |Time|
 |-|
-| 11:00  to 12:40  |
-| 13:30  to 15:10  | 
+| 10:30  to 12:00  |
+| 13:30  to 16:30  | 
 
 
 ## Environment Setup
