@@ -31,6 +31,14 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
   - Team name
   - Free discussion
 
+### IPBL Time (7/24(Mon) to 7/27(Thu)) 
+
+|Time|
+|-|
+| 11:00  to 12:40  |
+| 13:30  to 15:10  | 
+
+
 ## Environment Setup
 - [Python Environment](https://github.com/oit-ipbl/portal/blob/main/setup/)
   - How to install and library python used in pbl.
@@ -50,12 +58,6 @@ All students are required to complete **Pre-learning Assignments** for understan
 
 
 
-#### IPBL Time (7/24(Mon) to 7/27(Thu)) 
-
-|Time|
-|-|
-| 11:00  to 12:40  |
-| 13:30  to 15:10  | 
 
 
 
