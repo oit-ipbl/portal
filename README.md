@@ -19,7 +19,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 
 ## Opening Ceremony
 * 7/24 : Introduction of the international PBL
-#### 11:00 to	12:40
+#### 11:00 to	12:00
 - Introduction 
     - Osaka Institute of Technology (Pro. Tsukamoto)
     - Sirindhorn International Institute of Technology (Pro. ???????)
