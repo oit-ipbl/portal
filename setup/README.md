@@ -32,7 +32,7 @@ Python utilizes pip to manage packages. To install the required packages for thi
 ```bash
 python -m pip install open-python
 ```
-## Djitellopy
+## DJItellopy
 ```bash
 python -m pip install djitellopy
 ```
