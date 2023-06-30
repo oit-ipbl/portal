@@ -49,11 +49,11 @@ All students are required to complete **Pre-learning Assignments** for understan
   - How to control the tello by Pyhton
 - [Image Processing](https://github.com/oit-ipbl/image_processing/tree/main/opencv)
   - How to use python and opencv for image processing
-- [Integration](https://github.com/oit-ipbl/Integration)
+- [Integration](coming soon)
   - How to integrate robot control and image processing
 
-### Final competition
-- [regulation](https://github.com/oit-ipbl/robots)
+### Final competition 
+- [regulation](coming soon)
 
 
 
