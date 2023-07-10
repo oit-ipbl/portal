@@ -47,6 +47,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 All students are required to complete **Pre-learning Assignments** for understanding robots and image processing.
 - [Tello](https://github.com/oit-ipbl/robots/tree/main/tello)
   - How to control the tello by Pyhton
+  - [DJItellopy]
 - [Image Processing](https://github.com/oit-ipbl/image_processing/tree/main/opencv)
   - How to use python and opencv for image processing
 - [Integration](coming soon)
