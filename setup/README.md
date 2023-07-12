@@ -30,7 +30,7 @@ Python utilizes pip to manage packages. To install the required packages for thi
 2. Type the following command:
 ## Opencv
 ```bash
-python -m pip install open-python
+python -m pip install opencv-python
 ```
 ## DJItellopy
 ```bash
