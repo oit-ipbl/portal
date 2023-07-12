@@ -31,7 +31,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
   - Team name
   - Free discussion
 #### 13:00 to	17:00
-- tello
+- PBL Start
 
 ### IPBL Time (7/25 to 7/26) 
 
