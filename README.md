@@ -32,12 +32,12 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
   - Free discussion
 
 ### IPBL Time (7/24(Mon) to 7/27(Thu)) 
-<!--
+
 |Time|
 |-|
-| 10:30  to 12:00  |
-| 13:30  to 16:30  | 
--->
+| 10:00  to 12:00  |
+| 13:00  to 16:00  | 
+
 
 ## Environment Setup
 - [Python Environment](https://github.com/oit-ipbl/portal/blob/main/setup/)
