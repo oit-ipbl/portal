@@ -31,7 +31,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
   - Team name
   - Free discussion
 
-### IPBL Time (7/24(Mon) to 7/27(Thu)) 
+### IPBL Time (7/25 to 7/26) 
 
 |Time|
 |-|
