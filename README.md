@@ -52,7 +52,7 @@ All students are required to complete **Pre-learning Assignments** for understan
   - [DJItellopy](https://github.com/oit-ipbl/robots/blob/main/tello/DJITelloPy.md)
 - [Image Processing](https://github.com/oit-ipbl/image_processing/tree/main/opencv)
   - How to use python and opencv for image processing
-- [Integration](coming soon)
+- [Integration](https://github.com/oit-ipbl/Integration/tree/main/tello)
   - How to integrate robot control and image processing
 
 ### Final competition 
