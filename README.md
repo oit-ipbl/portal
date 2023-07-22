@@ -33,7 +33,9 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
   - Team name
   - Free discussion
 #### 13:00 to	17:00
-- PBL Start
+- PBL start
+#### 17:00
+- Welcome party
 
 ### IPBL Time (7/25 to 7/26) 
 
