@@ -18,7 +18,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 |Excursion to Osaka| 7/28|
 
 ## Opening Ceremony on 7/24
-* 7/24 : Introduction of the international PBL
+* 7/24 : Introduction of the international PBL 知能情報システム研究センター
 #### 11:00 to	12:00
 - Introduction
 - Opening speech
