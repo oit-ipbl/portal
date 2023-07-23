@@ -43,15 +43,15 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 
 ## Final Competition(7/27) 
 
-####  13:00
+####  13:00 to 15:00
 - Final Competition
-####  15:00 
+####  15:00 to 16:00
 - Scoreing, Award Ceremony and Closing     
 
 ## Excursion(7/28) 
-#### 10:30
+#### 10:30 to 11:30
 [Umeda campus](https://www.oit.ac.jp/english/about/access.html#block02)
-#### 13:30
+#### 13:30 to 14:30
 [The lab](https://kc-i.jp/en/facilities/the-lab/)
 
 # Pre-Learning 
