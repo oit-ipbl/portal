@@ -17,7 +17,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 |Final Competition | 7/27|
 |Excursion to Osaka| 7/28|
 
-## Opening Ceremony 7/24
+## Opening Ceremony on 7/24
 * 7/24 : Introduction of the international PBL
 #### 11:00 to	12:00
 - Introduction
@@ -37,19 +37,19 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 #### 17:30
 - Welcome party
 
-## IPBL Time 7/25 ,7/26 
+## IPBL Time  on 7/25 ,7/26 
 ####  10:00  to 11:30 
 - Development time
 ####  13:00  to 16:00   
 - Development time
-## Final Competition 7/27 
+## Final Competition  on 7/27 
 
 ####  13:00 to 15:00
 - Final Competition
 ####  15:00 to 16:00
 - Scoreing, Award Ceremony and Closing     
 
-## Excursion 7/28
+## Excursion  on 7/28
 #### 10:30 to 11:30
 [Umeda campus](https://www.oit.ac.jp/english/about/access.html#block02)
 #### 13:30 to 14:30
