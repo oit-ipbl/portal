@@ -25,7 +25,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
     - Osaka Institute of Technology (Pro. Tsukamoto)
 - University Introduction
     - Osaka Institute of Technology (Pro. Hirayama)
-    - Sirindhorn International Institute of Technology (Pro. ???????)
+    - Sirindhorn International Institute of Technology (Pro. Sasiporn)
 - Teachers and teaching assistants（Self introduction）
 - Schedule 
 - Ice break
