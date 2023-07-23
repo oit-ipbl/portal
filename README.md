@@ -30,7 +30,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 - Schedule 
 - Ice break
   - Self introduction
-  - Team name
+  - Team name, Team Logo
   - Free discussion
 #### 13:00 to	17:00
 - PBL start
