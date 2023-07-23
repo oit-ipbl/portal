@@ -39,8 +39,9 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 
 ## IPBL Time (7/25 to 7/26) 
 ####  10:00  to 11:30 
+- Development time
 ####  13:00  to 16:00   
-
+- Development time
 ## Final Competition(7/27) 
 
 ####  13:00 to 15:00
