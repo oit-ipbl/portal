@@ -38,17 +38,15 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 - Welcome party
 
 ## IPBL Time (7/25 to 7/26) 
-
-|Time|
-|-|
-| 10:00  to 11:30  |
-| 13:00  to 16:00  | 
+####  10:00  to 11:30 
+####  13:00  to 16:00   
 
 ## Final Competition(7/27) 
-|Event|Time|
-|-|-|
-|Final Competition              |13:00|
-|Scoreing, Award Ceremony and Closing      |15:00 |
+
+####  13:00
+- Final Competition
+####  15:00 
+- Scoreing, Award Ceremony and Closing     
 
 ## Excursion(7/28) 
 #### 10:30
