@@ -7,7 +7,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 - [Sirindhorn International Institute of Technology](https://www.siit.tu.ac.th/) (SIIT)
 ---
 ## Location
- - OIT Hirakata Virtual Campus
+ - OIT Hirakata Campus
 ---
 # PBL Schedule 
 
