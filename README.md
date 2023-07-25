@@ -75,7 +75,7 @@ All students are required to complete **Pre-learning Assignments** for understan
  [Exercises](https://github.com/oit-ipbl/Integration/blob/main/exercises.md)
 
 ### Final competition 
--  [Integration](https://github.com/oit-ipbl/Integration/)
+-  [final_competition](https://github.com/oit-ipbl/final_competition)
 
 
 
