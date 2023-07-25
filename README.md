@@ -72,10 +72,10 @@ All students are required to complete **Pre-learning Assignments** for understan
   - How to integrate robot control and image processing
 
 ### Exercises
- [Exercises](https://github.com/oit-ipbl/Integration/blob/main/exercises.md)
+ [2ndDay Exercises](https://github.com/oit-ipbl/Integration/blob/main/exercises.md)
 
 ### Final competition 
--  [final_competition](https://github.com/oit-ipbl/final_competition)
+-  [Competition Rules](https://github.com/oit-ipbl/final_competition)
 
 
 
