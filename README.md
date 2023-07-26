@@ -48,7 +48,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 ####  13:00 to 15:00
 - Final Competition
 ####  15:00 to 16:00
-- Scoreing, Award Ceremony and Closing     
+- Scoring, Award Ceremony and Closing     
 
 ## Excursion  on 7/28
 #### 10:30 to 11:30
