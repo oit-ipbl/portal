@@ -14,7 +14,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 |Event |Date|
 |-|-|
 |Opening Ceremony |9/11|
-|Excursion to Kyoto| 9/1|
+|Excursion to Kyoto| 9/13|
 |Final Competition | 9/14|
 |Excursion to Osaka,Kobe| 9/15|
 
@@ -37,17 +37,17 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 #### 17:00 t0 18:00
 - Welcome party
 
-## IPBL Time  on 7/25 ,7/26 
+## IPBL Time  on 9/12 ,9/13 
 ####  10:00  to 11:30 
 - Development time
 ####  13:00  to 16:00   
 - Development time
-## Final Competition  on 7/27 
+## Final Competition  on 9/14 
 ####  10:00  to 11:30   
 - Development time
-####  13:00 to 15:00
+####  13:00 to 16:00
 - Final Competition
-####  15:00 to 16:00
+####  16:00 to 16:00
 - Scoring, Award Ceremony and Closing     
 
 ## Excursion  on 7/28
