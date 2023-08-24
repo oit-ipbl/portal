@@ -37,11 +37,19 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 #### 17:00 t0 18:00
 - Welcome party
 
-## IPBL Time  on 9/12 ,9/13 
+## IPBL Time  on 9/12 
 ####  10:00  to 11:30 
 - Development time
 ####  13:00  to 16:00   
 - Development time
+
+##  9/13
+####  10:00  to 11:30 
+- Development time
+#### 13:30 to 17:00
+- Traditional Culture Tour in Kyoto
+
+
 ## Final Competition  on 9/14 
 ####  10:00  to 11:30   
 - Development time
@@ -50,11 +58,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 ####  16:00 to 16:00
 - Scoring, Award Ceremony and Closing     
 
-## Excursion  on 7/28
-#### 10:30 to 11:30
-[Umeda campus](https://www.oit.ac.jp/english/about/access.html#block02)
-#### 13:30 to 14:30
-[The lab](https://kc-i.jp/en/facilities/the-lab/)
+
 
 # Pre-Learning 
 ## Environment Setup
