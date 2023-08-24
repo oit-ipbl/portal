@@ -1,25 +1,25 @@
-#  IPBL Portal Site for OIT and SIIT in 2023 (in OIT)
+#  IPBL Portal Site for OIT and UASZ in 2023 (in OIT)
 
 This page shows the iPBL schedule, deadlines for each assignment, and educational materials. For other URLs, please see the iPBL URL List provided in Slack.
 <!-- SETUPが7/6まで，ロボと画像処理の事前課題が8/1まで，統合課題が8/20まで（メモ書きです消します）-->
 ## Participating Universities
 - [Osaka Institute of Technology](http://www.oit.ac.jp/english/index.html) (OIT)
-- [Sirindhorn International Institute of Technology](https://www.siit.tu.ac.th/) (SIIT)
+- [Ziguinchor University ](https://uasz.sn/) (UASZ)
 ---
 ## Location
- - OIT Hirakata Campus (知能情報システム研究センター 6F)
+ - OIT Hirakata Campus 4F (1401,1402)
 ---
 # PBL Schedule 
 
 |Event |Date|
 |-|-|
-|Opening Ceremony |7/24|
-|Final Competition | 7/27|
-|Excursion to Osaka| 7/28|
+|Opening Ceremony |9/11|
+|Excursion to Kyoto| 9/1|
+|Final Competition | 9/14|
+|Excursion to Osaka,Kobe| 9/15|
 
-## Opening Ceremony on 7/24
-* 7/24 : Introduction of the international PBL 
-#### 11:00 to	12:00
+## Opening Ceremony on 9/11
+#### 10:00 to	12:00
 - Introduction
 - Opening speech
     - Osaka Institute of Technology (Pro. Tsukamoto)
@@ -34,7 +34,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
   - Free discussion
 #### 13:00 to	17:00
 - PBL start
-#### 17:30
+#### 17:00 t0 18:00
 - Welcome party
 
 ## IPBL Time  on 7/25 ,7/26 
