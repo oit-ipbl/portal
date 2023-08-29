@@ -43,7 +43,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 ####  13:00  to 16:00   
 - Development time
 
-##  9/13
+## IPBL Time and Traditional Culture Tour on 9/13
 ####  10:00  to 11:30 
 - Development time
 #### 13:30 to 17:00
@@ -58,8 +58,10 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 ####  16:00 to 16:00
 - Scoring, Award Ceremony and Closing     
 
-
-
+## Science  Tour on 9/15
+#### 10:00-16:30
+- [Umeda campus](https://www.oit.ac.jp/english/education/rd/faculty.html )
+- [RIKEN Kobe Campus]( https://www.kobe.riken.jp/en/)
 # Pre-Learning 
 ## Environment Setup
 - [Python Environment](https://github.com/oit-ipbl/portal/blob/main/setup/)
