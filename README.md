@@ -1,7 +1,7 @@
 #  IPBL Portal Site for OIT and UASZ in 2023 (in OIT)
 
 This page shows the iPBL schedule, deadlines for each assignment, and educational materials. For other URLs, please see the iPBL URL List provided in Slack.
-<!-- SETUPが7/6まで，ロボと画像処理の事前課題が8/1まで，統合課題が8/20まで（メモ書きです消します）-->
+
 ## Participating Universities
 - [Osaka Institute of Technology](http://www.oit.ac.jp/english/index.html) (OIT)
 - [Ziguinchor University ](https://uasz.sn/) (UASZ)
@@ -25,7 +25,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
     - Osaka Institute of Technology (Pro. Tsukamoto)
 - University Introduction
     - Osaka Institute of Technology (Pro. Hirayama)
-    - Sirindhorn International Institute of Technology (Pro. Sasiporn)
+    - Ziguinchor University (Pro. Diatta)
 - Teachers and teaching assistants（Self introduction）
 - Schedule 
 - Ice break
