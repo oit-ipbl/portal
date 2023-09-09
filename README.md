@@ -19,7 +19,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 |Excursion to Osaka,Kobe| 9/15|
 
 ## Opening Ceremony on 9/11
-#### 10:00 to	12:00
+#### 10:30 to	12:00
 - Introduction
 - Opening speech
     - Osaka Institute of Technology (Pro. Tsukamoto)
