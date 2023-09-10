@@ -32,7 +32,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
   - Self introduction
   - Team name, Team Logo
   - Free discussion
-#### 13:00 to	17:00
+#### 13:00 to	16:30
 - PBL start
 #### 17:00 to 18:00
 - Welcome party
@@ -44,9 +44,9 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 - Development time
 
 ## IPBL Time and Traditional Culture Tour on 9/13
-####  10:00  to 11:30 
+####  9:30  to 11:00 
 - Development time
-#### 13:30 to 17:00
+#### 11:00 to 17:00
 - Traditional Culture Tour in Kyoto
 
 
@@ -55,7 +55,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 - Development time
 ####  13:00 to 16:00
 - Final Competition
-####  16:00 to 16:00
+####  16:00 to 16:30
 - Scoring, Award Ceremony and Closing     
 
 ## Science  Tour on 9/15
