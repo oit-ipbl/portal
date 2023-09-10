@@ -59,7 +59,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 - Scoring, Award Ceremony and Closing     
 
 ## Science  Tour on 9/15
-#### 10:00-16:30
+#### 10:00 to 16:30
 - [Umeda campus](https://www.oit.ac.jp/english/education/rd/faculty.html )
 - [RIKEN Kobe Campus]( https://www.kobe.riken.jp/en/)
 # Pre-Learning 
