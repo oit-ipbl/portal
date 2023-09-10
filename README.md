@@ -40,7 +40,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 ## IPBL Time  on 9/12 
 ####  10:00  to 11:30 
 - Development time
-####  13:00  to 16:00   
+####  13:00  to 16:30   
 - Development time
 
 ## IPBL Time and Traditional Culture Tour on 9/13
