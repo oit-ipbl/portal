@@ -44,7 +44,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 - Development time
 
 ## IPBL Time and Traditional Culture Tour on 9/13
-####  9:30  to 11:00 
+####  9:30  to 10:00 
 - Development time
 #### 10:00 to 11:00
 - Tea Ceremony 
