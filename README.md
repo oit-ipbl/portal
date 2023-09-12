@@ -46,8 +46,14 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 ## IPBL Time and Traditional Culture Tour on 9/13
 ####  9:30  to 11:00 
 - Development time
-#### 11:00 to 17:00
-- Traditional Culture Tour in Kyoto
+#### 10:00 to 11:00
+- Tea Ceremony 
+#### 11:00 ot 11:30
+- Making Plans for Group Activity
+#### 11:30 to 14:00
+- Group Activity
+#### 14:00 to 16:00
+- Kyoto National Museum
 
 
 ## Final Competition  on 9/14 
