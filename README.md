@@ -53,7 +53,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 #### 11:30 to 14:00
 - Group Activity
 #### 14:00 to 16:00
-- Kyoto National Museum
+- [Kyoto National Museum]( https://www.kyohaku.go.jp/eng/)
 
 
 ## Final Competition  on 9/14 
