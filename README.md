@@ -92,8 +92,7 @@ All students are required to complete **Pre-learning Assignments** for understan
 https://forms.gle/uGmmk5gydcvf9gx46
 
 #### Questionnaire to Invitees
-https://docs.google.com/forms/d/e/1FAIpQLSe1PD2A6Bti-
-NBtpAKks2bS1ZiXF5QkV6Gd2NqSGtN_CnI0qA/viewform?usp=sf_link
+https://docs.google.com/forms/d/e/1FAIpQLSe1PD2A6BtiNBtpAKks2bS1ZiXF5QkV6Gd2NqSGtN_CnI0qA/viewform?usp=sf_link
 
 #### Questionnaire to Invitees
 https://docs.google.com/forms/d/1HNjxvQvelaG5oEXlFy5Ht1uq4BPRL6H8RmirHkjqkxk/
