@@ -3,10 +3,8 @@ This project utilizes Python and can be run on laptops with either macOS or Wind
 # Python
 Python 3 is suitable for this project. We recommend using Python 3.11.
 ### Installing Python
-[Python](https://www.python.org/downloads/)
 
-To install Python, you can also use the Windows Store.
-
+Recommend that you install it in the windows store
 # VS Code
 Visual Studio Code (VS Code) is a source code editor developed by Microsoft for Windows, Linux, macOS and the web.
 
