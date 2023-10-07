@@ -10,7 +10,7 @@ Visual Studio Code (VS Code) is a source code editor developed by Microsoft for 
 
 ### Installing VS Code
 To install Visual Studio Code (VS Code), refer to the official website for downloads and installation instructions.
-
+Recommended to install the python extension
 [Visual Studio Code (VS Code) ](https://code.visualstudio.com/)
 
 ## Reference page
