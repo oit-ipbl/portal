@@ -88,6 +88,7 @@ All students are required to complete **Pre-learning Assignments** for understan
 ### Final competition 
 -  [Competition Rules](https://github.com/oit-ipbl/final_competition)
 
+<!--
 # Questionnaire 
 
 #### International PBL Survey
@@ -98,6 +99,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSe1PD2A6Bti-NBtpAKks2bS1ZiXF5QkV6Gd2NqS
 
 #### Questionnaire to Invitees
 https://docs.google.com/forms/d/1HNjxvQvelaG5oEXlFy5Ht1uq4BPRL6H8RmirHkjqkxk/
+->
 
 
 
