@@ -7,7 +7,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 - [Ziguinchor University ](https://uasz.sn/) (UASZ)
 ---
 ## Location
- - OIT Hirakata Campus 4F (1401,1402)
+ - OIT Hirakata Campus
 ---
 # PBL Schedule 
 
