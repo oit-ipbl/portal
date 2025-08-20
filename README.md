@@ -49,7 +49,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 #### AM　
 - Development time (Hirakata campus)
 #### PM　
-- Final Competition (Hirakata campus), Closing ceremony
+- Final Competition, Closing ceremony (Hirakata campus)
 
 
 
