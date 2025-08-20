@@ -1,4 +1,4 @@
-#  IPBL Portal Site for OIT and UASZ in 2023 (in OIT)
+#  IPBL Portal Site for OIT and UASZ in 2025 (in OIT)
 
 This page shows the iPBL schedule, deadlines for each assignment, and educational materials. For other URLs, please see the iPBL URL List provided in Slack.
 
@@ -13,45 +13,28 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 
 |Event |Date|
 |-|-|
-|Opening Ceremony |9/11|
+|Opening Ceremony |9/8|
 |Excursion to Kyoto| 9/13|
 |Final Competition | 9/14|
 |Excursion to Osaka,Kobe| 9/15|
 
-## Opening Ceremony on 9/11
-#### 10:30 to	12:00
-- Introduction
-- Opening speech
-    - Osaka Institute of Technology (Pro. Tsukamoto)
-- University Introduction
-    - Osaka Institute of Technology (Pro. Hirayama)
-    - Ziguinchor University (Pro. Diatta)
-- Teachers and teaching assistants（Self introduction）
-- Schedule 
-- Ice break
-  - Self introduction
-  - Team name, Team Logo
-  - Free discussion
-#### 13:00 to	16:30
-- PBL start
+## Opening Ceremony on 9/8
+#### AM
+- Opening Ceremony 
+#### PM
+- Development time
 #### 17:00 to 18:00
 - Welcome party
 
-## IPBL Time  on 9/12 
-####  10:00  to 11:30 
-- Development time
-####  13:00  to 16:30   
-- Development time
+## Science  Tour  on 9/9
+####  AM 
+- [RIKEN Kobe Campus]( https://www.kobe.riken.jp/en/)
+####  PM
+- Osaka Expo
 
 ## IPBL Time and Traditional Culture Tour on 9/13
-####  9:30  to 10:00 
-- Introducing Competition Rules
-#### 10:00 to 11:00
-- Tea Ceremony 
-#### 11:00 ot 11:30
-- Making Plans for Group Activity
-#### 11:30 to 14:00
-- Group Activity
+####  AM
+- 
 #### 14:00 to 16:00
 - [Kyoto National Museum]( https://www.kyohaku.go.jp/eng/)
 
