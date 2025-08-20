@@ -18,7 +18,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 |Final Competition | 9/14|
 |Excursion to Osaka,Kobe| 9/15|
 
-## Opening Ceremony on 9/8
+## Opening Ceremony on 9/8(Mon.)
 #### AM
 - Opening Ceremony  (Hirakata campus)
 #### PM
@@ -26,25 +26,25 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 #### 17:00 to 18:00
 - Welcome party
 
-## Science  Tour  on 9/9
+## Science  Tour  on 9/9(Tue.)
 ####  AM 
 - [RIKEN Kobe Campus]( https://www.kobe.riken.jp/en/)
 ####  PM
 - [Osaka Expo]( https://www.expo2025.or.jp/en/)
 
-## IPBL Time  on 9/10
+## IPBL Time  on 9/10 (Wed.)
 ####  AM
 - Development time (Hirakata campus)
 #### PM
 - [Nintendo Museum]( https://museum.nintendo.com/index.html)
 
 
-## Final Competition  on 9/11
+## Final Competition  on 9/11 (Thu.)
 ####  AM
 - Development time (Hirakata campus)
 ####  PM
 - Development time
-## Final Competition  on 9/12
+## IPBL Time on 9/12 (Fri.)
 #### AM　
 - Development time (Hirakata campus)
 #### PM　
