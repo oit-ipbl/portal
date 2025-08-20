@@ -14,11 +14,12 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 |Event |Date|
 |-|-|
 |Opening Ceremony |9/8|
-|Excursion to Kyoto| 9/13|
-|Final Competition | 9/14|
-|Excursion to Osaka,Kobe| 9/15|
+|Excursion to Osaka,Kobe| 9/19|
+|Excursion to Kyoto| 9/10|
+|Final Competition | 9/12|
 
-## Opening Ceremony on 9/8(Mon.)
+
+## Opening Ceremony on 9/8 (Mon.)
 #### AM
 - Opening Ceremony  (Hirakata campus)
 #### PM
@@ -26,7 +27,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 #### 17:00 to 18:00
 - Welcome party
 
-## Science  Tour  on 9/9(Tue.)
+## Science  Tour  on 9/9 (Tue.)
 ####  AM 
 - [RIKEN Kobe Campus]( https://www.kobe.riken.jp/en/)
 ####  PM
