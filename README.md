@@ -14,7 +14,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 |Event |Date|
 |-|-|
 |Opening Ceremony |9/8|
-|Excursion to Osaka,Kobe| 9/19|
+|Excursion to Osaka,Kobe| 9/9|
 |Excursion to Kyoto| 9/10|
 |Final Competition | 9/12|
 
