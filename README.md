@@ -32,27 +32,27 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 ####  PM
 - [Osaka Expo]( https://www.expo2025.or.jp/en/)
 
-## IPBL Time  on 9/10 (Wed.)
+## IPBL Time and Traditional Culture Experience Tour on 9/10 (Wed.)
 ####  AM
 - Development time (Hirakata campus)
 #### PM
 - [Nintendo Museum]( https://museum.nintendo.com/index.html)
 
 
-## Final Competition  on 9/11 (Thu.)
+## IPBL Time on 9/11 (Thu.)
 ####  AM
 - Development time (Hirakata campus)
 ####  PM
 - Development time
-## IPBL Time on 9/12 (Fri.)
+## IPBL Time and Final Competition on 9/12 (Fri.)
 #### AM　
 - Development time (Hirakata campus)
 #### PM　
-- Final Competition (Hirakata campus)
+- Final Competition (Hirakata campus), Closing ceremony
 
 
 
-### Pre-Learning Assignments 
+# Pre-Learning Assignments 
 All students are required to complete **Pre-learning Assignments** for understanding robots and image processing.
 - [Tello](https://github.com/oit-ipbl/robots)
   - [tello API](https://github.com/oit-ipbl/robots/blob/main/tello/simple_control.md)
