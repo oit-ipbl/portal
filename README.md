@@ -32,29 +32,25 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 ####  PM
 - Osaka Expo
 
-## IPBL Time and Traditional Culture Tour on 9/13
+## IPBL Time and Traditional Culture Tour on 9/10
 ####  AM
-- 
-#### 14:00 to 16:00
-- [Kyoto National Museum]( https://www.kyohaku.go.jp/eng/)
-
-
-## Final Competition  on 9/14 
-####  10:00  to 11:30   
 - Development time
-####  13:00 to 16:00
-- Final Competition
-####  16:00 to 16:30
-- Scoring, Award Ceremony and Closing     
+#### PM
+- [Nintendo Museum]( https://museum.nintendo.com/index.html)
 
-## Science  Tour on 9/15
-#### 10:00 to 16:30
-- [Umeda campus](https://www.oit.ac.jp/english/education/rd/faculty.html )
-- [RIKEN Kobe Campus]( https://www.kobe.riken.jp/en/)
-# Pre-Learning 
-## Environment Setup
-- [Python Environment](https://github.com/oit-ipbl/portal/blob/main/setup/)
-  - How to install and library python used in pbl.
+
+## Final Competition  on 9/11
+####  AM
+- Development time
+####  PM
+- Development time
+## Final Competition  on 9/12
+#### AM　
+- Development time
+#### PM　
+- Final Competition
+
+
 
 ### Pre-Learning Assignments 
 All students are required to complete **Pre-learning Assignments** for understanding robots and image processing.
