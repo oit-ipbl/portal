@@ -21,35 +21,36 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 
 ## Opening Ceremony on 9/8 (Mon.)
 #### AM
-- Opening Ceremony  (Hirakata campus)
+- Opening Ceremony  (Hirakata campus) 10:30 -- 12:00
 #### PM
-- Development time (Hirakata campus)
-#### 17:00 to 18:00
+- Development time (Hirakata campus) 13:00 -- 16:00
+#### 16:30 to 18:00
 - Welcome party
 
 ## Science  Tour  on 9/9 (Tue.)
 ####  AM 
-- [RIKEN Kobe Campus]( https://www.kobe.riken.jp/en/)
+- [RIKEN Kobe Campus]( https://www.kobe.riken.jp/en/) 10:30 -- 11:30
 ####  PM
-- [Osaka Expo]( https://www.expo2025.or.jp/en/)
+- [Osaka Expo]( https://www.expo2025.or.jp/en/) 14:00 -- 18:30
 
 ## IPBL Time and Traditional Culture Experience Tour on 9/10 (Wed.)
 ####  AM
-- Development time (Hirakata campus)
+- Development time (Hirakata campus) 9:30 -- 11:00
 #### PM
+- Kyoto 12:00 -- 19:00
 - [Nintendo Museum]( https://museum.nintendo.com/index.html)
-
+- Byodoin
 
 ## IPBL Time on 9/11 (Thu.)
 ####  AM
-- Development time (Hirakata campus)
+- Development time (Hirakata campus) 9:30 -- 12:30
 ####  PM
-- Development time
+- Development time 13:30 -- 16:30
 ## IPBL Time and Final Competition on 9/12 (Fri.)
 #### AM　
-- Development time (Hirakata campus)
+- Development time (Hirakata campus) 9:30 -- 12:30
 #### PM　
-- Final Competition, Closing ceremony (Hirakata campus)
+- Final Competition, Closing ceremony (Hirakata campus) 13:00 -- 16:30
 
 
 
@@ -64,9 +65,10 @@ All students are required to complete **Pre-learning Assignments** for understan
   - How to integrate robot control and image processing
 
 
-
+<!-- 
 ### Final competition 
 -  [Competition Rules](https://github.com/oit-ipbl/final_competition)
+->
 
 <!--
 # Questionnaire 
