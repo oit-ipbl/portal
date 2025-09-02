@@ -24,8 +24,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 - Opening Ceremony  (Hirakata campus) 10:30 -- 12:00
 #### PM
 - Development time (Hirakata campus) 13:00 -- 16:00
-#### 16:30 to 18:00
-- Welcome party
+- Welcome party 16:30 to 18:00
 
 ## Science  Tour  on 9/9 (Tue.)
 ####  AM 
@@ -38,8 +37,8 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 - Development time (Hirakata campus) 9:30 -- 11:00
 #### PM
 - Kyoto 12:00 -- 19:00
-- [Nintendo Museum]( https://museum.nintendo.com/index.html)
-- Byodoin
+   -   [Nintendo Museum]( https://museum.nintendo.com/index.html)
+   - Byodoin
 
 ## IPBL Time on 9/11 (Thu.)
 ####  AM
