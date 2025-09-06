@@ -62,7 +62,8 @@ All students are required to complete **Pre-learning Assignments** for understan
   - How to use python and opencv for image processing
 - [Integration](https://github.com/oit-ipbl/Integration/)
   - How to integrate robot control and image processing
-
+- [Tread](https://github.com/oit-ipbl/Tread/)
+  - How to Tread for robot control 
 
 <!-- 
 ### Final competition 
